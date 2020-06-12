@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Segundos Platos
-permalink: /menu/primeros-platos.md
+permalink: /menu/primeros-platos
 published: true
 tags:
   - menu
 ---
+# Segundos platos
 
 Entrecot de ternera (~600gr)
 Solomillo de ternera

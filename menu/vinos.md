@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Vinos
-permalink: /menu/vinos.md
+permalink: /menu/vinos
 published: true
 tags:
   - menu
 ---
-
-Tintos de nuestra tierra
+# Vinos
+### Tintos de nuestra tierra
 Estola reserva
 Finca la Estacada jóven
 Finca Río Negro jóven
 
-Riojas
+### Riojas
 Montecillo crianza
 Viña Alcorta 3/8 crianza
 Viña Alcorta crianza
@@ -23,13 +23,18 @@ Marqués de Cáceres crianza
 Marqués de Riscal reserva
 Rioja jóven
 
-Ribera del Duero
+### Ribera del Duero
 Protos
 Mayor de Castilla
 
-Blancos
+### Blancos
 Blanco de Rueda jóven
 
-Rosados
+### Rosados
 Rosado de Navarro
 Lambrusco espumoso
+
+|   |   |   |
+|---|---|---|
+|Rosado de Navarro|   |7.50|
+|Lambrusco espumoso|   |5.00|

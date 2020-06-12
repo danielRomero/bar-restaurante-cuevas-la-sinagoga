@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Primeros Platos
-permalink: /menu/primeros-platos.md
+permalink: /menu/primeros-platos
 published: true
 tags:
   - menu
