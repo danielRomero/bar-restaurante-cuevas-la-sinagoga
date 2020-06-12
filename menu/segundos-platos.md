@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Segundos Platos
 permalink: /menu/primeros-platos
 published: true

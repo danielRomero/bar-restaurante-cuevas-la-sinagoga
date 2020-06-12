@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Vinos
 permalink: /menu/vinos
 published: true

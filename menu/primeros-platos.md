@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Primeros Platos
 permalink: /menu/primeros-platos
 published: true
