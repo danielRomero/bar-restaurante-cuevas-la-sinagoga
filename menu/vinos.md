@@ -6,27 +6,12 @@ tags:
   - menu
 ---
 # Vinos
-### Tintos de nuestra tierra
-Estola reserva
-Finca la Estacada jóven
-Finca Río Negro jóven
 
 |Tintos de nuestra tierra|   |
 |---|---|
 |Estola reserva|7.00|
 |Finca la Estacada jóven|9.00|
 |Finca Río Negro jóven|15.00|
-
-### Riojas
-Montecillo crianza
-Viña Alcorta 3/8 crianza
-Viña Alcorta crianza
-Coto crianza
-Ramón Bilbao crianza
-Cune crianza
-Marqués de Cáceres crianza
-Marqués de Riscal reserva
-Rioja jóven
 
 |Riojas|   |
 |---|---|
@@ -40,27 +25,18 @@ Rioja jóven
 |Marqués de Riscal reserva|20.00|
 |Rioja jóven|6.50|
 
-### Ribera del Duero
-Protos
-Mayor de Castilla
-
 |Ribera del Duero|   |
 |---|---|
 |Protos|12.00|
 |Mayor de Castilla|7.00|
 
-### Blancos
-Blanco de Rueda jóven
-
 |Blancos|   |
 |---|---|
 |Blanco de Rueda jóven|8.00|
-
-### Rosados
-Rosado de Navarro
-Lambrusco espumoso
 
 |Rosados|   |
 |---|---|
 |Rosado de Navarro|7.50|
 |Lambrusco espumoso|5.00|
+
+{% include footer-menu.md %}
