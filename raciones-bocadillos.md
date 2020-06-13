@@ -1,6 +1,5 @@
 ---
 title: Raciones, Bocadillos y Hamburguesas
-permalink: /menu/raciones-bocadillos
 published: true
 tags:
   - menu

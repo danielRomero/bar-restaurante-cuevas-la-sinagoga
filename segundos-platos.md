@@ -1,6 +1,5 @@
 ---
 title: Segundos Platos
-permalink: /menu/segundos-platos
 published: true
 tags:
   - menu
@@ -15,11 +14,9 @@ tags:
 |Chuletas de cordero|13.00|
 |Mollejas de cordero|12.50|
 |Secreto o presa de cerdo|11.00|
-|Confit de pato con salsa de naranja|12.00|
 |Huevos rotos con jamón ibérico|9.00|
 |Emperador a la plancha|10.00|
 |Merluza a la romana|10.00|
-|Hamburguesa te ternera con jamón ibérico, queso de cabra, salsa barbacoa y patatas|10.00|
-|Hamburguesa mixta con queso, bacon, salsa burguer y patatas|8.00|
-
+|Hamburguesa con jamón ibérico, queso de cabra, salsa barbacoa y patatas|10.00|
+|Hamburguesa con bacon, queso cheddar, salsa burguer y patatas|8.00|
 {% include footer-menu.md %}

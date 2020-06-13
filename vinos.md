@@ -1,6 +1,6 @@
 ---
 title: Vinos
-permalink: /menu/vinos
+permalink: /vinos
 published: true
 tags:
   - menu
