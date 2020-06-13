@@ -1,11 +1,41 @@
 ---
-title: Raciones y Bocadillos
+title: Raciones, Bocadillos y Hamburguesas
 permalink: /menu/raciones-bocadillos
 published: true
 tags:
   - menu
 ---
 
-# Raciones y Bocadillos
+# Raciones
+
+|Paratas 3 salsas (brava, alioli y deluxe)|6.00|
+|Croquetas caseras de jamón y cocido|10.00|
+|Croquetas de rabo de toro|10.00|
+|Calaramares a la romana|9.00|
+|Gambas al ajillo|12.00|
+|Sepia a la plancha|12.00|
+|Mollejas de cordero al ajillo|12.50|
+|Jamón ibérico|15.00|
+|Salchichón ibérico|8.00|
+|Queso manchego|14.00|
+|Tosta de jamón ibérico y huevo frito|8.00|
+|Revuelto de morcilla|9.00|
+
+# Bocadillos
+
+|Jamón ibérico|9.00|
+|Queso manchego|7.00|
+|Chorizo ibérico|5.00|
+|Salchichón ibérico|5.00|
+|Chorizo frito|4.00|
+|Lomo a la plancha|5.00|
+|Pepito de ternera|7.00|
+|Bacon|4.00|
+|Calamares a la romana|6.00|
+
+# Hamburguesas
+
+|Hamburguesa con jamón ibérico, queso de cabra, salsa barbacoa y patatas|10.00|
+|Hamburguesa con bacon, queso cheddar, salsa burguer y patatas|8.00|
 
 {% include footer-menu.md %}
