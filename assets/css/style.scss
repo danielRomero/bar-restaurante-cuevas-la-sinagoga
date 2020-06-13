@@ -2,11 +2,17 @@
 ---
 
 @import "{{ site.theme }}";
-header {
-  background-color: white;
-}
-header ul.menu li{
+// header {
+//   background-color: white;
+// }
+header li{
+  width: auto;
+  height: auto;
   padding: 0px;
+}
+
+header ul li a.buttons{
+  padding: 8px 8px 2px 8px;
   background: none;
-  color: #232323;
+  font-weight: bold;
 }
