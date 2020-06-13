@@ -11,29 +11,56 @@ Estola reserva
 Finca la Estacada jóven
 Finca Río Negro jóven
 
+|Tintos de nuestra tierra|   |
+|---|---|
+|Estola reserva|7.00|
+|Finca la Estacada jóven|9.00|
+|Finca Río Negro jóven|15.00|
+
 ### Riojas
 Montecillo crianza
 Viña Alcorta 3/8 crianza
 Viña Alcorta crianza
 Coto crianza
-Ramón Bilcbao crianza
-Cuna crianza
+Ramón Bilbao crianza
+Cune crianza
 Marqués de Cáceres crianza
 Marqués de Riscal reserva
 Rioja jóven
+
+|Riojas|   |
+|---|---|
+|Montecillo crianza|12.00|
+|Viña Alcorta 3/8 crianza|6.00|
+|Viña Alcorta crianza|10.00|
+|Coto crianza|12.00|
+|Ramón Bilbao crianza|13.00|
+|Cune crianza|16.00|
+|Marqués de Cáceres crianza|19.00|
+|Marqués de Riscal reserva|20.00|
+|Rioja jóven|6.50|
 
 ### Ribera del Duero
 Protos
 Mayor de Castilla
 
+|Ribera del Duero|   |
+|---|---|
+|Protos|12.00|
+|Mayor de Castilla|7.00|
+
 ### Blancos
 Blanco de Rueda jóven
+
+|Blancos|   |
+|---|---|
+|Blanco de Rueda jóven|8.00|
 
 ### Rosados
 Rosado de Navarro
 Lambrusco espumoso
 
-|   |   |   |
-|---|---|---|
-|Rosado de Navarro|   |7.50|
-|Lambrusco espumoso|   |5.00|
+|Rosados|   |
+|---|---|
+|Rosado de Navarro|7.50|
+|Lambrusco espumoso|5.00|
