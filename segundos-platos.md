@@ -5,6 +5,7 @@ published: true
 tags:
   - menu
 ---
+
 # Segundos platos
 
 |Entrecot de ternera (~600gr)|16.00|
