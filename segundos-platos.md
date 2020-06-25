@@ -18,6 +18,6 @@ tags:
 |Emperador a la plancha|10.00|
 |Merluza a la romana|10.00|
 |Hamburguesa con jamón ibérico, queso de rulo de cabra, salsa barbacoa y patatas|10.00|
-|Hamburguesa con bacon, queso, salsa burguer y patatas|8.00|
+|Hamburguesa con bacon, queso, salsa burguer y patatas|9.00|
 
 {% include footer-menu.md %}

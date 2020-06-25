@@ -28,7 +28,7 @@ tags:
 
 |Ribera del Duero|   |
 |---|---|
-|Protos|12.00|
+|Protos|14.00|
 |Mayor de Castilla|7.00|
 
 |Blancos|   |
