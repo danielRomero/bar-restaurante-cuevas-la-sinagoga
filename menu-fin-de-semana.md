@@ -11,16 +11,15 @@ tags:
 |Pimientos rellenos de merluza|
 |Salmorejo|
 |Ensalada con rulo de cabra y frutos secos|
-||
+
+
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Presa ibérica|
 |Emperador a la plancha|
 
 
-### 20€
-
-### Vino, gaseosa, agua y postre incluidos
+### 20€ - Vino, gaseosa, agua y postre incluidos
 
 
 {% include footer-menu.md %}
