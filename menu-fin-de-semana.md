@@ -1,17 +1,17 @@
 ---
-title: Menu fin de semana
+title: Menú fin de semana
 published: true
 tags:
   - menu-fin-de-semana
 ---
 
-# Menu fin de semana
+# Menú fin de semana - 20€
 
 |Langostinos cocidos en cama de lechuga|
 |Pimientos rellenos de merluza|
 |Salmorejo|
 |Ensalada con rulo de cabra y frutos secos|
-|-----|
+||
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Presa ibérica|
