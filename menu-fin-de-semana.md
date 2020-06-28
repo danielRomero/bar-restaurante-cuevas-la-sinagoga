@@ -16,7 +16,7 @@ tags:
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Presa ibérica|
-|Emperador a la plancha|
+|Merluza a la romana|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
