@@ -13,7 +13,7 @@ tags:
 |Ensalada con rulo de cabra y frutos secos|
 
 
-|Entrecot|
+|Chuletas de cordero|
 |Rabo de toro al vino tinto|
 |Presa ibérica|
 |Merluza a la romana|
