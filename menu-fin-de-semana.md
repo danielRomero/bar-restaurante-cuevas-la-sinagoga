@@ -8,15 +8,15 @@ tags:
 # Menú fin de semana - 20€
 
 |Langostinos cocidos en cama de lechuga|
-|Pimientos rellenos de merluza|
+|Cogollos con ventresca y anchoas|
 |Salmorejo|
-|Ensalada con rulo de cabra y frutos secos|
+|Pisto castellano con huevo frito|
 
 
-|Chuletas de cordero|
+|Carrillada de cerdo ibérico|
 |Rabo de toro al vino tinto|
-|Presa ibérica|
-|Merluza a la romana|
+|Entrecot de ternera|
+|Bacalao con salsa de pimientos de piquillo|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
