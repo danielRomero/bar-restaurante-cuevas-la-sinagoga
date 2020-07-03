@@ -9,7 +9,7 @@ tags:
 
 |Entrecot de ternera (~600gr)|16.00|
 |Solomillo de ternera|19.00|
-|Cachopo de ternera|16.00|
+|Cachopo de ternera|17.00|
 |Rabo de toro al vino tinto|12.00|
 |Chuletas de cordero|13.00|
 |Mollejas de cordero|12.50|
