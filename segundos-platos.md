@@ -11,6 +11,7 @@ tags:
 |Solomillo de ternera|19.00|
 |Cachopo de ternera|17.00|
 |Rabo de toro al vino tinto|12.00|
+|Confit de pato con salsa de naranja|12.50|
 |Chuletas de cordero|13.00|
 |Mollejas de cordero|12.50|
 |Secreto o presa de cerdo|11.00|
