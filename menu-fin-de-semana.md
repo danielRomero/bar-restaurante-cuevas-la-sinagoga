@@ -10,7 +10,7 @@ tags:
 |Pimientos del piquillo rellenos de setas y boletus|
 |Cogollos con ventresca y anchoas|
 |Salmorejo|
-|Teigueros a la plancha envueltos con bacon|
+|Trigueros a la plancha envueltos con bacon|
 
 
 |Presa ibérica|
