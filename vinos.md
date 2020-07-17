@@ -20,7 +20,7 @@ tags:
 |Viña Alcorta 3/8 crianza|6.00|
 |Viña Alcorta crianza|10.00|
 |Coto crianza|12.00|
-|Ramón Bilbao crianza|13.00|
+|Ramón Bilbao crianza|14.00|
 |Cune crianza|16.00|
 |Marqués de Cáceres crianza|19.00|
 |Marqués de Riscal reserva|20.00|
