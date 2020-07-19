@@ -4,6 +4,7 @@ published: true
 tags:
   - menu-fin-de-semana
 redirect_to: /primeros-platos
+redirect_from: /primeros-platos
 ---
 
 # Menú fin de semana - 20€
