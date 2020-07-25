@@ -3,20 +3,19 @@ title: Menú fin de semana
 published: true
 tags:
   - menu-fin-de-semana
-redirect_to: /primeros-platos
 ---
 
 # Menú fin de semana - 20€
 
-|Pimientos del piquillo rellenos de setas y boletus|
+|Trigueros a la plancha envueltos en bacon|
 |Pisto castellano con huevo|
-|Salmorejo|
+|Gazpacho|
 |Ensalada con queso de rulo de cabra y frutos secos|
 
-|Carrillada de cerdo ibérica|
-|Pierna de cordero de lechal asada|
+|Carrillada de cerdo estofada|
+|Rabo de toro al vino tinto|
 |Entrecot de ternera|
-|Filete de emperador a la plancha|
+|Merluza en salsa marinera|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
