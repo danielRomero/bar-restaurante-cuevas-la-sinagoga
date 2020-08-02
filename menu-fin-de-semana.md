@@ -8,7 +8,6 @@ tags:
 # Menú fin de semana - 20€
 
 |Trigueros a la plancha envueltos en bacon|
-|Risoto de setas|
 |Pisto castellano con huevo|
 |Salmorejo|
 |Ensalada con rulo de cabra y frutos secos|
