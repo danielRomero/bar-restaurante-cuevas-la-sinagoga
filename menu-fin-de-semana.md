@@ -9,6 +9,7 @@ tags:
 
 |Trigueros a la plancha envueltos en bacon|
 |Risoto de setas|
+|Pisto castellano con huevo|
 |Salmorejo|
 |Ensalada con rulo de cabra y frutos secos|
 
