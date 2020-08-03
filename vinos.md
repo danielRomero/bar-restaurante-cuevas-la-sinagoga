@@ -10,7 +10,7 @@ tags:
 
 |Tintos de nuestra tierra|   |
 |---|---|
-|Estola reserva|7.00|
+|Estola reserva|8.00|
 |Finca la Estacada jóven|9.00|
 |Finca Río Negro jóven|15.00|
 
@@ -19,7 +19,6 @@ tags:
 |Montecillo crianza|12.00|
 |Viña Alcorta 3/8 crianza|6.00|
 |Viña Alcorta crianza|10.00|
-|Coto crianza|12.00|
 |Ramón Bilbao crianza|14.00|
 |Cune crianza|16.00|
 |Marqués de Cáceres crianza|19.00|
@@ -30,6 +29,7 @@ tags:
 |---|---|
 |Protos|14.00|
 |Mayor de Castilla|7.00|
+|Vegantigua|12.00|\
 
 |Blancos|   |
 |---|---|
