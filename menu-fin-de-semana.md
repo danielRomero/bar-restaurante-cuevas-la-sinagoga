@@ -7,15 +7,15 @@ tags:
 
 # Menú fin de semana - 20€
 
-|Trigueros a la plancha envueltos en bacon|
+|Pimientos del piquillo rellenos de merluza|
 |Pisto castellano con huevo|
 |Salmorejo|
-|Ensalada con rulo de cabra y frutos secos|
+|Ensalada de cogollos con ventresca y anchoas|
 
-|Carrillada de cerdo ibérico|
+|Presa ibérica a la plancha|
 |Rabo de toro al vino tinto|
 |Entrecot de ternera|
-|Emperador a la plancha|
+|Merluza en salsa manrinera|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
