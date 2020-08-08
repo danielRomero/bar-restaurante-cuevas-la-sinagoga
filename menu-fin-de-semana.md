@@ -15,7 +15,7 @@ tags:
 |Presa ibérica a la plancha|
 |Rabo de toro al vino tinto|
 |Entrecot de ternera|
-|Merluza en salsa manrinera|
+|Merluza en salsa marinera|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
