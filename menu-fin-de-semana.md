@@ -14,7 +14,7 @@ tags:
 
 |Carrillada de cerdo ibérico|
 |Rabo de toro al vino tinto|
-|Solomillo de ternera|
+|Entrecot de ternera|
 |Emperador a la plancha|
 
 
