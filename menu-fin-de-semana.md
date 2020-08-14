@@ -7,15 +7,15 @@ tags:
 
 # Menú fin de semana - 20€
 
-|Pimientos del piquillo rellenos de merluza|
-|Pisto castellano con huevo|
+|Fabada|
+|Espárragos trigueros a la plancha con bacon|
 |Salmorejo|
-|Ensalada de cogollos con ventresca y anchoas|
+|Ensalada con queso de rulo de cabra y frutos secos|
 
-|Presa ibérica a la plancha|
+|Carrillada de cerdo ibérico|
 |Rabo de toro al vino tinto|
-|Entrecot de ternera|
-|Merluza en salsa marinera|
+|Solomillo de ternera|
+|Emperador a la plancha|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
