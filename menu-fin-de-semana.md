@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana - 20€
 
-|Fabada|
+|Sopa castellana|
 |Espárragos trigueros a la plancha con bacon|
 |Salmorejo|
 |Ensalada con queso de rulo de cabra y frutos secos|
