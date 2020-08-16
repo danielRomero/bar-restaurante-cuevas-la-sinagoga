@@ -14,7 +14,7 @@ tags:
 
 |Carrillada de cerdo ibérico|
 |Rabo de toro al vino tinto|
-|Entrecot de ternera|
+|Solomillo de cerdo ibérico con salsa Pedro Ximenez|
 |Emperador a la plancha|
 
 
