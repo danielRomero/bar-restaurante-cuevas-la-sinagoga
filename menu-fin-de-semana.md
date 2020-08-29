@@ -10,6 +10,7 @@ tags:
 |Pisto castellano con huevo|
 |Espárragos trigueros a la plancha con bacon|
 |Salmorejo|
+|Sopa castellana|
 |Ensalada con queso de rulo de cabra y frutos secos|
 
 |Carrillada de cerdo ibérico|
