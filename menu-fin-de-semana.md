@@ -10,7 +10,7 @@ tags:
 |Pimientos rellenos de merluza|
 |Salmorejo|
 |Sopa castellana|
-|Ensalada de tomate, mozzarela, jamón y aguacate|
+|Ensalada de tomate, mozzarella, jamón y aguacate|
 
 |Presa ibérica|
 |Rabo de toro al vino tinto|
