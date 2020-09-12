@@ -10,12 +10,12 @@ tags:
 |Pimientos rellenos de merluza|
 |Salmorejo|
 |Sopa castellana|
-|Ensalada de tomate, mozzarella, jamón y aguacate|
+|Ensalada con rulo de cabra y frutos secos|
 
-|Presa ibérica|
+|Carrillada ibérica|
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Emperador a la plancha|
+|Bacalao con tomate|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
