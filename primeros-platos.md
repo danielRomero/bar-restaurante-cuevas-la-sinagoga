@@ -14,9 +14,9 @@ tags:
 |Ensalada mixta|7.00|
 |Ensalada de pimimentos asados con ventresca|12.00|
 |Trigueros a la plancha|10.00|
-|Berenjenas a la miel de la alcarria (**agotado**)|10.00|
+|Berenjenas a la miel de la alcarria|10.00|
 |Parrillada de verduras|10.00|
 |Gazpacho o Salmorejo|7.00|
-|Pisto castellano con huevo (**agotado**)|10.00|
+|Pisto castellano con huevo|10.00|
 
 {% include footer-menu.md %}
