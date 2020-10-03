@@ -13,7 +13,7 @@ tags:
 |Rabo de toro al vino tinto|12.00|
 |Confit de pato con salsa de naranja|12.50|
 |Chuletas de cordero|13.50|
-|Mollejas de cordero (**agotado**)|13.50|
+|Mollejas de cordero|13.50|
 |Secreto o presa de cerdo|11.00|
 |Huevos rotos con jamón ibérico|9.00|
 |Emperador a la plancha|10.00|
