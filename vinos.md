@@ -29,7 +29,7 @@ tags:
 |---|---|
 |Protos|14.00|
 |Mayor de Castilla|7.00|
-|Vegantigua|12.00|\
+|Vegantigua|12.00|
 
 |Blancos|   |
 |---|---|
