@@ -14,7 +14,7 @@ tags:
 |Ensalada con rulo de cabra y frutos secos|
 
 |Presa ibérica|
-|Rabo de toro al vino tinto|
+|Churrasco de ternera|
 |Entrecot|
 |Huevos rotos con jamón ibérico|
 |Emperador a la plancha|
