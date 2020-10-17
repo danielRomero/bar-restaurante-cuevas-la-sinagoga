@@ -7,16 +7,14 @@ tags:
 
 # Menú fin de semana - 20€
 
-|Cardo con salsa de almendras|
-|Fabada|
-|Sopa de marisco|
+|Pisto castellano con huevo frito|
 |Pimientos rellenos de setas y boletus|
 |Ensalada con rulo de cabra y frutos secos|
+|Sopa castellana|
 
-|Presa ibérica|
-|Churrasco de ternera|
+|carilleras ibéricas|
+|Rabo de toro al vino tinto|
 |Entrecot|
-|Huevos rotos con jamón ibérico|
 |Emperador a la plancha|
 
 
