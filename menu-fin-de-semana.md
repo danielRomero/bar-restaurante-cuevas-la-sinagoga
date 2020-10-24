@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana - 20€
 
-|Pisto castellano con huevo frito|
+|Fabada|
 |Pimientos rellenos de setas y boletus|
 |Ensalada con rulo de cabra y frutos secos|
 |Sopa castellana|
@@ -15,7 +15,7 @@ tags:
 |carilleras ibéricas|
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Emperador a la plancha|
+|Bonito con tomate|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
