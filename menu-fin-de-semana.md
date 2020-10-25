@@ -14,7 +14,6 @@ tags:
 
 |carilleras ibéricas|
 |Rabo de toro al vino tinto|
-|Entrecot|
 |Bonito con tomate|
 |Presa ibérica a la plancha|
 
