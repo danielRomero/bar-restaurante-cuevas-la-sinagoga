@@ -16,6 +16,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Bonito con tomate|
+|Presa ibérica a la plancha|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
