@@ -15,6 +15,7 @@ tags:
 |carilleras ibéricas|
 |Rabo de toro al vino tinto|
 |Bonito con tomate|
+|Kokotxas de bacalao rebozadas|
 |Presa ibérica a la plancha|
 
 
