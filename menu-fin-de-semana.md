@@ -7,15 +7,15 @@ tags:
 
 # Menú fin de semana - 20€
 
-|Fabes con perdiz|
-|Pisto castellano con huevo|
+|Fabada|
+|Trigueros a la plancha envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
 |Sopa castellana|
 
-|Carilleras ibéricas|
+|Carillera al Pedro Ximenez|
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Merluza a la romana|
+|Lomos de merluza|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
