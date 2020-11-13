@@ -7,6 +7,7 @@ tags:
 
 # Primeros platos
 
+|Alcachofa confitada con foie|11.0|
 |Sopa de cocido|5.00|
 |Sopa castellana|5.00|
 |Revuelto de morcilla con piñones y pasas|10.00|
