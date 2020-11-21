@@ -12,7 +12,7 @@ tags:
 |Ensalada con rulo de cabra y frutos secos|
 |Sopa castellana|
 
-|Carrillada al Pedro Ximenez|
+|Presa ibérica a la plancha|
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Bacalao con tomate|
