@@ -11,7 +11,7 @@ tags:
 |Espárragos trigueros a la plancha envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
 |Sopa castellana|
-|Espaguetis con níscalos y champiñones|
+|Espaguetis con níscalos|
 
 |Carrilleras ibéricas al Pedro Ximenez|
 |Rabo de toro al vino tinto|
