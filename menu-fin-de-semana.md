@@ -16,7 +16,7 @@ tags:
 |Carrilleras ibéricas al Pedro Ximenez|
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Bacalao con tomate|
+|Lomos de merluza en salsa marinera|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
