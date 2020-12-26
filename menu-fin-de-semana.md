@@ -10,12 +10,12 @@ tags:
 |Judías con almejas|
 |Ensalada con rulo de cabra y frutos secos|
 |Sopa de cocido o sopa castellana|
-|Pimientos rellenos de merluza|
+|Pisto castellano con huevo|
 
-|Carrilleras ibéricas al Pedro Ximenez|
+|Huevos rotos con jamón ibérico|
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Rodaballo a la plancha|
+|Emperador a la plancha|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
