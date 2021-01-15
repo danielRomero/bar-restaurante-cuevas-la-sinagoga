@@ -7,16 +7,15 @@ tags:
 
 # Menú fin de semana - 20€
 
-|Sopa de marisco|
-|Sopa castellana|
-|Espárragos trigueros a la plancha envueltos con bacon|
+|Pisto castellano|
+|Fabada|
 |Ensalada con rulo de cabra y frutos secos|
+|Sopa castellana|
 
-|Huevos rotos con jamón ibérico|
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Carrilleras al Pedro Ximenez|
-|Emperador a la plancha|
+|Merluza en salsa marinera|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
