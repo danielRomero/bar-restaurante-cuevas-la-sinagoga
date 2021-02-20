@@ -7,8 +7,8 @@ tags:
 
 # Menú fin de semana - 20€
 
-|Pisto castellano|
-|Fabada|
+|Trigueros a la plancha envueltos en bacon|
+|Judías con almejas|
 |Ensalada con rulo de cabra y frutos secos|
 |Sopa castellana|
 
