@@ -14,7 +14,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Carrilleras al Pedro Ximenez|
+|Chuletas de cordero|
 |Merluza en salsa marinera|
 
 
