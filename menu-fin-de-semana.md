@@ -11,8 +11,10 @@ tags:
 |Sopa castellana|
 |Fabada con judías blancas|
 |Revuelto de setas con gambas y jamón|
+|Espárragos trigueros a la plancha envueltos con bacon|
 
 |Cabrito al ajillo|
+|Carrillada|
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Rodaballo a la plancha|
