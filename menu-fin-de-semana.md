@@ -7,15 +7,15 @@ tags:
 
 # Menú fin de semana - 20€
 
-|Trigueros a la plancha envueltos en bacon|
-|Judías con almejas|
 |Ensalada con rulo de cabra y frutos secos|
 |Sopa castellana|
+|Fabada con judías blancas|
+|Revuelto de setas con gambas y jamón|
 
+|Cabrito al ajillo|
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Chuletas de cordero|
-|Merluza en salsa marinera|
+|Rodaballo a la plancha|
 
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
