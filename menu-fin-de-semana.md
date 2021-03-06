@@ -8,12 +8,12 @@ tags:
 # Menú fin de semana - 20€
 
 |Ensalada con rulo de cabra y frutos secos|
-|Sopa castellana|
+|Pimientos rellenos de merluza y gambas|
+|Verduras a la plancha|
 |Fabada con judías blancas|
-|Revuelto de setas con gambas y jamón|
-|Espárragos trigueros a la plancha envueltos con bacon|
+|Sopa castellana|
 
-|Cabrito al ajillo|
+|Chuletas de cordero|
 |Carrillada|
 |Rabo de toro al vino tinto|
 |Entrecot|
