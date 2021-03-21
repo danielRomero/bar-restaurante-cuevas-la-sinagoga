@@ -10,7 +10,6 @@ tags:
 |Ensalada con rulo de cabra y frutos secos|
 |Trigueros a la plancha|
 |Fabes con almejas|
-|Pisto castellano con huevo frito|
 |Sopa castellana|
 
 |Carrilleras al Pedro Ximenez|
