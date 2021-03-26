@@ -11,11 +11,12 @@ tags:
 |Trigueros a la plancha|
 |Fabes con almejas|
 |Sopa castellana|
+|Sopa de marisco|
 
 |Carrilleras al Pedro Ximenez|
-|Rabo de toro al vino tinto|
+|Chuletas de cordero|
 |Entrecot|
-|Emperador a la plancha|
+|Rodaballo a la plancha|
 |Pulpo a la plancha|
 
 ### 20€ - Vino, gaseosa, agua y postre incluidos
