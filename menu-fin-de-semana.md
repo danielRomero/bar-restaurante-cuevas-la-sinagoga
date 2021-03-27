@@ -9,6 +9,7 @@ tags:
 
 |Ensalada con rulo de cabra y frutos secos|
 |Trigueros a la plancha|
+|Pisto castellano con huevo|
 |Fabes con almejas|
 |Sopa castellana|
 |Sopa de marisco|
