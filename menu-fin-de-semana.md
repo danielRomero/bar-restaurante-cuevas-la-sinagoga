@@ -9,12 +9,15 @@ tags:
 
 |Potaje|
 |Ensalada con rulo de cabra y frutos secos|
-|Pisto castellano con huevo|
 |Sopa castellana|
+|Pimientos rellenos de bacalao|
+|Trigueros a la plancha envueltos en bacon|
 
-|Cabrito al ajillo|
+
+|Carrilleras de cerdo al Pedro Ximenez|
+|Chuletas de cordero|
 |Rabo de toro al vino tinto|
-|Entrecot|
+|Rodaballo a la plancha|
 |Pulpo a la plancha|
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
