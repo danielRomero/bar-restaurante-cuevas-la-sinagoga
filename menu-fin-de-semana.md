@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Potaje|
+|Fabada|
 |Ensalada con rulo de cabra y frutos secos|
 |Sopa castellana|
 |Pimientos rellenos de bacalao|
@@ -15,10 +15,12 @@ tags:
 
 
 |Carrilleras de cerdo al Pedro Ximenez|
-|Chuletas de cordero|
+|Cabrito al ajillo|
 |Rabo de toro al vino tinto|
-|Rodaballo a la plancha|
+|Bacalao rebozado|
 |Pulpo a la plancha|
+
+Por 4€ más puedes elegir de segundo **paletilla de lechal asada**
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
 
