@@ -15,12 +15,10 @@ tags:
 
 
 |Carrilleras de cerdo al Pedro Ximenez|
-|Cabrito al ajillo|
+|Chuletas de cordero|
 |Rabo de toro al vino tinto|
 |Bacalao rebozado|
 |Pulpo a la plancha|
-
-Por 4€ más puedes elegir de segundo **paletilla de lechal asada**
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
 
