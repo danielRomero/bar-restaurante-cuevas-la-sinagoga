@@ -14,6 +14,7 @@ tags:
 |Calaramares a la romana|10.00|
 |Gambas al ajillo|12.00|
 |Sepia a la plancha|12.00|
+|Chopitos|8.50|
 |Mollejas de cordero al ajillo|13.50|
 |Jamón ibérico|15.00|
 |Salchichón ibérico|8.00|
