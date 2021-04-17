@@ -7,18 +7,17 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Fabada|
+|Pimientos del piquillo rellenos de morcilla|
+|Fabes con almejas|
 |Cogollos con ventresca y anchoas|
 |Sopa castellana|
-|Pimientos rellenos de bacalao|
-|Alcachofas confitadas con virutas de jamón|
-
+|Verduras a la plancha|
 
 |Entrecot|
-|Chuletas de cordero|
 |Rabo de toro al vino tinto|
-|Rodaballo|
-|Pulpo a la plancha|
+|Cocohas de bacalao rebozadas|
+|Carrilleras al Pedro Ximenez|
+|Rodaballo a la plancha|
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
 
