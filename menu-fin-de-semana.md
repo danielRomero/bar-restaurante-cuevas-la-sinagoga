@@ -14,7 +14,6 @@ tags:
 |Trigueros a la plancha|
 
 |Entrecot|
-|Chuletas de cordero|
 |Carrilleras al Pedro Ximenez|
 |Cocohas de bacalao rebozadas|
 |Rodaballo a la plancha|
