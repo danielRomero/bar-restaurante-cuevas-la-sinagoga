@@ -9,14 +9,15 @@ tags:
 
 |Pisto castellano|
 |Ensalada con rulo de cabra y frutos secos|
-|Arroz con bogavante|
+|Sopa castellana|
+|Pimientos rellenos de merluza|
 |Huevos rotos con jamón ibérico|
 |Tomate con ventresca y anchoas|
 |Salmorejo|
 
 |Entrecot|
 |Rabo de toro al vino tinto|
-|Cordero asado|
+|Chuletas de cordero|
 |Pulpo a la plancha|
 |Emperador a la plancha|
 
