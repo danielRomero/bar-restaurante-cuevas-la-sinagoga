@@ -11,9 +11,9 @@ tags:
 |Ensalada de tomate con ventresca y anchoas|
 |Sopa castellana|
 |Paella mixta|
-
 |Pimientos rellenos de merluza|
 |Salmorejo|
+
 |Entrecot|
 |Chuletas de cordero|
 |Rabo de toro al vino tinto|
