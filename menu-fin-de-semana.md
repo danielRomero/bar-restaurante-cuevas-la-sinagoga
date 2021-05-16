@@ -9,13 +9,13 @@ tags:
 
 |Ensalada con rulo de cabra y frutos secos|
 |Ensalada de tomate con ventresca y anchoas|
-|Trigueros a la plancha envueltos en bacon|
 |Sopa castellana|
 |Paella mixta|
 
 |Pimientos rellenos de merluza|
 |Salmorejo|
 |Entrecot|
+|Chuletas de cordero|
 |Rabo de toro al vino tinto|
 |Carrilleras al Pedro Ximenez|
 |Pulpo a la plancha|
