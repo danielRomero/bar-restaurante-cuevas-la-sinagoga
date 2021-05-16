@@ -12,7 +12,6 @@ tags:
 |Sopa castellana|
 |Paella mixta|
 
-
 |Pimientos rellenos de merluza|
 |Salmorejo|
 |Entrecot|
