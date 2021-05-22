@@ -12,7 +12,7 @@ tags:
 |---|---|
 |Estola reserva|8.00|
 |Finca la Estacada jóven|9.00|
-|Finca Río Negro jóven|15.00|
+|Finca Río Negro jóven 992|15.00|
 
 |Riojas|   |
 |---|---|
@@ -30,10 +30,13 @@ tags:
 |Protos|14.00|
 |Mayor de Castilla|7.00|
 |Vegantigua|12.00|
+|Celeste Roble|14.00|
+|Pruno Roble|16.50|
 
 |Blancos|   |
 |---|---|
-|Blanco de Rueda jóven|8.00|
+|Blanco de Rueda jóven|9.00|
+|Martin Codax Albariño|16.00|
 
 |Rosados|   |
 |---|---|
