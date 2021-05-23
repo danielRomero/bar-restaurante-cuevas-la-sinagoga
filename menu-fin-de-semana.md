@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Fabes con almejas|
+|Judías con almejas|
 |Pisto castellano con huevo|
 |Salmorejo|
 |Ensalada con rulo de cabra y frutos secos|
