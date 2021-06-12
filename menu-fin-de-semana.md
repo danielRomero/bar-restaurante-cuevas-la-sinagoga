@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Paella|
+|Arroz con bogavante|
 |Pisto castellano con huevo|
 |Salmorejo|
 |Ensalada con rulo de cabra y frutos secos|
@@ -16,7 +16,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Carrilleras al Pedro Ximenez|
 |Entrecot|
-|Rodaballo a la plancha|
+|Emperador a la plancha|
 |Pulpo a la plancha|
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
