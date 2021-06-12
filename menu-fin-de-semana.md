@@ -8,6 +8,7 @@ tags:
 # Menú fin de semana - 22€
 
 |Arroz con bogavante|
+|Pimientos del piquillo rellenos de morcilla|
 |Pisto castellano con huevo|
 |Salmorejo|
 |Ensalada con rulo de cabra y frutos secos|
