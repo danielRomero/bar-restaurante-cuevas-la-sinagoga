@@ -8,16 +8,16 @@ tags:
 # Menú fin de semana - 22€
 
 |Arroz con bogavante|
-|Pimientos del piquillo rellenos de morcilla|
+|Trigueros a la plancha envueltos en bacon|
 |Pisto castellano con huevo|
-|Salmorejo|
+|Gazpacho|
 |Ensalada con rulo de cabra y frutos secos|
 
 
 |Rabo de toro al vino tinto|
 |Carrilleras al Pedro Ximenez|
 |Entrecot|
-|Emperador a la plancha|
+|Cocochas de bacalao rebozadas|
 |Pulpo a la plancha|
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
