@@ -15,9 +15,11 @@ tags:
 
 |Chuletas de cordero|
 |Entrecot|
+|Solomillo de cerdo ibérico|
 |Rabo de toro al vino tinto|
 |Carrilleras al Pedro Ximenez|
 |Pulpo a la plancha|
+|Rodaballo a la plancha|
 |Emperador|
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
