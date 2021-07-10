@@ -7,20 +7,17 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Arroz con bogavante|
-|Trigueros envueltos en bacon|
+|Cogollos con ventresca y anchoas|
+|Risotto de setas|
 |Pisto castellano con huevo|
-|Salmorejo|
+|Salmorejo o gazpacho|
 |Ensalada con rulo de cabra y frutos secos|
 
-|Chuletas de cordero|
 |Entrecot|
-|Solomillo de cerdo ibérico|
 |Rabo de toro al vino tinto|
 |Carrilleras al Pedro Ximenez|
 |Pulpo a la plancha|
-|Rodaballo a la plancha|
-|Emperador|
+|Cocochas de bacalao rebozadas|
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
 
