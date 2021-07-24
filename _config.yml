@@ -6,3 +6,5 @@ title: Bar Restaurante Cuevas la Sinagoga
 description: "Menu del Bar Restaurante Cuevas la Sinagoga. Chillarón del Rey (Guadalajara). Reservas: 949357450"
 plugins:
   - jekyll-redirect-from
+sass:
+  sass_dir: ./_scss
