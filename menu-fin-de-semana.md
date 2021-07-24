@@ -7,7 +7,6 @@ tags:
 
 # Menú fin de semana - 22€
 
-
 |Salmorejo o gazpacho|
 |Risotto de setas y champiñones|
 |Salpicón de marisco|
@@ -19,6 +18,5 @@ tags:
 |Carrilleras al Pedro Ximenez|
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
-
 
 {% include footer-menu.md %}
