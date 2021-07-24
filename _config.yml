@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-dink
 timezone: Europe/Madrid
 encoding: utf-8
 lang: es-Es
@@ -6,5 +6,3 @@ title: Bar Restaurante Cuevas la Sinagoga
 description: "Menu del Bar Restaurante Cuevas la Sinagoga. Chillarón del Rey (Guadalajara). Reservas: 949357450"
 plugins:
   - jekyll-redirect-from
-sass:
-  sass_dir: ./_scss
