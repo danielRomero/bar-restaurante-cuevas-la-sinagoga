@@ -2,14 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-
 header li{
   width: auto;
   height: auto;
   line-height: normal;
   padding: 0px;
-}
-
+};
 header ul li a.buttons{
   padding: 8px 8px 0px 8px;
   background: none;
