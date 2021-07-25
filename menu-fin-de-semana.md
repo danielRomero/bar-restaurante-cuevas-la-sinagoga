@@ -12,6 +12,8 @@ tags:
 |Salpicón de marisco|
 |Ensalada con rulo de cabra y frutos secos|
 
+------
+
 |Corvina al horno|
 |Entrecot|
 |Rabo de toro al vino tinto|
