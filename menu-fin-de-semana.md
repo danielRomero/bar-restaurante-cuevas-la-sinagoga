@@ -7,18 +7,19 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Risotto de champiñones y setas|
 |Salmorejo o gazpacho|
-|Pimientos rellenos de bacalao|
-|Ensalada con gambas|
+|Pisto castellano con huevo|
+|Ensalada de pimientos con ventresca|
+|Ensalada con rulo de cabra y frutos secos|
+|Trigueros a la plancha|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Presa ibérica|
+|Chuletas de cordero|
 |Entrecot|
 |Emperador a la plancha|
-|Merluza a la romana|
+|Merluza en salsa de gambas|
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
 
