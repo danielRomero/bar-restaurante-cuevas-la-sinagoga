@@ -8,7 +8,7 @@ tags:
 # Menú fin de semana - 22€
 
 |Salmorejo o gazpacho|
-|Pisto castellano con huevo|
+|Arroz con bogavante|
 |Ensalada de pimientos con ventresca|
 |Ensalada con rulo de cabra y frutos secos|
 |Trigueros a la plancha|
@@ -19,7 +19,7 @@ tags:
 |Chuletas de cordero|
 |Entrecot|
 |Emperador a la plancha|
-|Merluza en salsa de gambas|
+|Huevos rotos con jamón ibérico|
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
 
