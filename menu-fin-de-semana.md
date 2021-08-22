@@ -15,9 +15,10 @@ tags:
 ------
 
 |Rabo de toro al vino tinto|
-|Chuletas de cordero|
+|Carrillada|
 |Entrecot|
 |Emperador a la plancha|
+|Pulpo a la plancha|
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
 
