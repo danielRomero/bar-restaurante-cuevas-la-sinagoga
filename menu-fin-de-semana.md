@@ -8,7 +8,7 @@ tags:
 # Menú fin de semana - 22€
 
 |Salmorejo o gazpacho|
-|Pisto con huevo|
+|Pisto castellano con huevo|
 |Ensalada con rulo de cabra y frutos secos|
 |Arroz con bogavante|
 
