@@ -10,7 +10,7 @@ tags:
 |Judías con almejas|
 |Pimientos rellenos de bacalao|
 |Salmorejo|
-|Teigueros a la plancha envueltos en bacon|
+|Trigueros a la plancha envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
