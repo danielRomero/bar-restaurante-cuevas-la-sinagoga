@@ -7,14 +7,14 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Arroz con bogavante|
+|Sopa de marisco|
 |Pimientos asados con ventresca y anchoas|
 |Trigueros a la plancha envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
 
-|Rabo de toro al vino tinto|
+|Chuletas de cordero|
 |Carrillada|
 |Entrecot|
 |Pulpo a la plancha|
