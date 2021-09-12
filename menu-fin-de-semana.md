@@ -8,6 +8,7 @@ tags:
 # Menú fin de semana - 22€
 
 |Sopa de marisco|
+|Salmorejo|
 |Pimientos asados con ventresca y anchoas|
 |Trigueros a la plancha envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
