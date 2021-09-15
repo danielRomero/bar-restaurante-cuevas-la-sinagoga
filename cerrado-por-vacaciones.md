@@ -5,7 +5,7 @@ tags:
   - closed
 redirect_from:
   - /menu-fin-de-semana
-  - /primero-platos
+  - /primeros-platos
   - /segundos-platos
   - /vinos
   - /raciones-bocadillos
