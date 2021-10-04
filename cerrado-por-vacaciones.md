@@ -12,8 +12,7 @@ redirect_from:
   - /
 ---
 
-# Cerramos por vacaciones desde el 13 de septiembre
+# Cerrado por vacaciones, volvemos el miércoles 6 de octubre
 
-Volveremos pronto
 
 {% include footer-only-address.md %}
