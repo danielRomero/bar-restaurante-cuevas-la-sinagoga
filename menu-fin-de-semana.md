@@ -7,19 +7,17 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Sopa de marisco|
-|Salmorejo|
-|Pimientos asados con ventresca y anchoas|
+|Sopa castellana|
+|Fabada|
 |Trigueros a la plancha envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
 
-|Chuletas de cordero|
-|Carrillada|
+|Carrilleras al Pedro Ximenez|
+|Rabo de toro al vino tinto|
 |Entrecot|
 |Pulpo a la plancha|
-|Merluza a la romana|
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
 
