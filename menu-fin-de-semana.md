@@ -17,7 +17,7 @@ tags:
 |Carrilleras al Pedro Ximenez|
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Pulpo a la plancha|
+|Bacalao al horno|
 
 ### 22€ - Vino, gaseosa, agua y postre incluidos
 
