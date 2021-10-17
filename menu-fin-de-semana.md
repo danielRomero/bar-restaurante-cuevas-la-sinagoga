@@ -15,7 +15,7 @@ tags:
 ------
 
 |Huevos rotos con jamón y níscalos|
-|Rabo de toro al vino tinto|
+|Chuletas de cordero|
 |Entrecot|
 |Carrilleras al Pedro Ximenez|
 |Rape en salsa|
