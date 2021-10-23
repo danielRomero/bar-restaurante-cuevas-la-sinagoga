@@ -8,6 +8,7 @@ tags:
 # Menú fin de semana - 22€
 
 |Sopa castellana|
+|Judías con almejas|
 |Pisto castellano con huevo|
 |Revuelto de setas con gambas|
 |Ensalada con rulo de cabra y frutos secos|
