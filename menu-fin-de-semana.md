@@ -15,7 +15,6 @@ tags:
 
 ------
 
-|Codillo al horno|
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Carrilleras al Pedro Ximenez|
