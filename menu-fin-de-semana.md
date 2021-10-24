@@ -10,7 +10,7 @@ tags:
 |Sopa castellana|
 |Judías con almejas|
 |Pisto castellano con huevo|
-|Revuelto de setas con gambas|
+|Espárragos trigueros envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
