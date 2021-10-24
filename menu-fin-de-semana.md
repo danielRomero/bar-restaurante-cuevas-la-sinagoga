@@ -17,6 +17,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Entrecot|
+|Chuletas de cordero|
 |Carrilleras al Pedro Ximenez|
 |Bacalao al horno|
 
