@@ -8,19 +8,20 @@ tags:
 # Menú fin de semana - 22€
 
 |Sopa castellana|
-|Judías con almejas|
+|Fabada|
+|Pimientos rellenos de bacalao|
 |Pisto castellano con huevo|
-|Espárragos trigueros envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Chuletas de cordero|
+|Codillo al horno|
 |Carrilleras al Pedro Ximenez|
-|Bacalao al horno|
+|Pulpo a la plancha|
 
-### 22€ - Vino, gaseosa, agua y postre incluidos
+
+22€ - Vino, gaseosa, agua y postre incluidos
 
 {% include footer-menu.md %}
