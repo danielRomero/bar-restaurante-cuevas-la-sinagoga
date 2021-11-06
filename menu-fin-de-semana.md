@@ -9,16 +9,16 @@ tags:
 
 |Sopa castellana|
 |Fabada|
-|Pimientos rellenos de bacalao|
-|Pisto castellano con huevo|
+|Trigueros a la plancha envueltos en bacon|
+|Revuelto de setas con gambas|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Codillo al horno|
-|Carrilleras al Pedro Ximenez|
+|Presa ibérica a la plancha|
+|Bacalao al horno|
 |Pulpo a la plancha|
 
 
