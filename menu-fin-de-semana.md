@@ -10,13 +10,14 @@ tags:
 |Sopa castellana|
 |Trigueros a la plancha envueltos en bacon|
 |Revuelto de setas con gambas|
+|Pimientos con ventresca|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Chuletas de cordero|
-|Presa ibérica a la plancha|
+|Cachopo|
 |Pulpo a la plancha|
 
 
