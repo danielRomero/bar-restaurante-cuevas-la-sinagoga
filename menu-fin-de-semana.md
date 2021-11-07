@@ -8,7 +8,7 @@ tags:
 # Menú fin de semana - 22€
 
 |Sopa castellana|
-|Fabada|
+|Pisto castellano con huevo|
 |Trigueros a la plancha envueltos en bacon|
 |Revuelto de setas con gambas|
 |Ensalada con rulo de cabra y frutos secos|
@@ -18,7 +18,6 @@ tags:
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Presa ibérica a la plancha|
-|Bacalao al horno|
 |Pulpo a la plancha|
 
 
