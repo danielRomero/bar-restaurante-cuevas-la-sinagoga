@@ -18,7 +18,6 @@ tags:
 |Rabo de toro al vino tinto|
 |Carilleras al Pedro Ximenez|
 |Entrecot|
-|Bacalao al horno|
 |Pulpo a la plancha|
 
 
