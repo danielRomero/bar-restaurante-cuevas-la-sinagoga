@@ -7,17 +7,18 @@ tags:
 
 # Menú fin de semana - 22€
 
+|Fabada|
 |Sopa castellana|
 |Trigueros a la plancha envueltos en bacon|
-|Revuelto de setas con gambas|
-|Pimientos con ventresca|
+|Pimientos rellenos de merluza y gambas|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Chuletas de cordero|
-|Cachopo|
+|Carilleras al Pedro Ximenez|
+|Entrecot|
+|Bacalao al horno|
 |Pulpo a la plancha|
 
 
