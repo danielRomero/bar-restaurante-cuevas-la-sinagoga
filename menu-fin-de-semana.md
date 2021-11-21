@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Judías blancas|
+|Risotto con setas y champiñones|
 |Sopa castellana|
 |Trigueros a la plancha envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
