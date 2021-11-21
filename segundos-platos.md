@@ -7,7 +7,7 @@ tags:
 
 # Segundos platos
 
-|Entrecot de ternera (~600gr)|18.00|
+|Entrecot de ternera|18.00|
 |Solomillo de ternera|20.00|
 |Cachopo de ternera|17.00|
 |Rabo de toro al vino tinto|12.00|
