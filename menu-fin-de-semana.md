@@ -9,8 +9,9 @@ tags:
 
 |Fabada|
 |Pimientos rellenos de merluza y gambas|
-|Ensalada con rulo de cabra y frutos secos|
 |Sopa castellana|
+|Revuelto de setas con gambas y jamón|
+
 
 ------
 
@@ -18,6 +19,7 @@ tags:
 |Carilleras al Pedro Ximenez|
 |Entrecot|
 |Pulpo a la plancha|
+|Atún a la plancha|
 
 
 22€ - Vino, gaseosa, agua y postre incluidos
