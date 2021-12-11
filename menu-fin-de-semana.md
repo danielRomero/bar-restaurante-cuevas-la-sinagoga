@@ -7,19 +7,18 @@ tags:
 
 # Menú fin de semana - 22€
 
+|Callos con garbanzos|
 |Sopa castellana|
-|Ensalada de rulo de cabra y frutos secos|
-|Sopa de marisco|
 |Trigueros envueltos en bacon|
-|Pisto castellano con huevo|
-
+|Ensalada de rulo de cabra y frutos secos|
 
 ------
 
-|Presa ibérica|
+|Rabo de toro al vino tinto|
+|Presa ibérica con salsa de almendras|
 |Chuletas de cordero|
 |Entrecot|
-|Bacalao|
+|Pulpo a la plancha con puré de patata|
 
 
 22€ - Vino, gaseosa, agua y postre incluidos
