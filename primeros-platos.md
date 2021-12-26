@@ -3,6 +3,10 @@ title: Primeros Platos
 published: true
 tags:
   - menu
+
+redirect_from:
+   - /menu-fin-de-semana
+
 ---
 
 # Primeros platos
