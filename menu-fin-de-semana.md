@@ -3,9 +3,6 @@ title: Menú fin de semana
 published: true
 tags:
   - menu-fin-de-semana
-
-redirect_from:
-   - /menu-fin-de-semana
 ---
 
 # Menú fin de semana - 22€
