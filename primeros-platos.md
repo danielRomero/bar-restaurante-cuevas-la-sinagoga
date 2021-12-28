@@ -4,8 +4,8 @@ published: true
 tags:
   - menu
 
-redirect_from:
-   - /menu-fin-de-semana
+# redirect_from:
+#   - /menu-fin-de-semana
 
 ---
 
