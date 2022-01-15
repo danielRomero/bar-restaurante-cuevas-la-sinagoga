@@ -11,7 +11,7 @@ tags:
 |Sopa castellana|
 |Sopa de marisco|
 |Fabada|
-|Ensalada de rulo de cabra y frutos secos|
+|Ensalada con rulo de cabra y frutos secos|
 
 ------
 
@@ -19,7 +19,7 @@ tags:
 |Carrillada al Pedro Ximénez|
 |Entrecot|
 |Filete de corvina a la plancha o rebozada|
-
+|Pulpo a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
