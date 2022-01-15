@@ -7,9 +7,10 @@ tags:
 
 # Menú fin de semana - 22€
 
+|Cardo con salsa de almendras|
 |Sopa castellana|
-|Judías con almejas|
-|Pimientos rellenos de merluza y gambas|
+|Sopa de marisco|
+|Fabada|
 |Ensalada de rulo de cabra y frutos secos|
 
 ------
@@ -17,7 +18,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Carrillada al Pedro Ximénez|
 |Entrecot|
-|Atún a la plancha|
+|Filete de corvina a la plancha o rebozada|
 
 
 22€ - Vino, gaseosa, agua y postre incluidos
