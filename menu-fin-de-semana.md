@@ -9,7 +9,7 @@ tags:
 
 |Cardo con salsa de almendras|
 |Sopa castellana|
-|Ensalada de perdiz en vinagreta|
+|Pimientos rellenos de merluza y gambas|
 |Fabada|
 |Ensalada con rulo de cabra y frutos secos|
 
