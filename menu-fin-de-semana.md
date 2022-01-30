@@ -15,7 +15,6 @@ tags:
 
 ------
 
-|Rabo de toro al vino tinto|
 |Carrillada al Pedro Ximénez|
 |Chuletas de cordero|
 |Pulpo a la plancha|
