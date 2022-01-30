@@ -17,6 +17,7 @@ tags:
 
 |Carrillada al Pedro Ximénez|
 |Chuletas de cordero|
+|Cachopo|
 |Pulpo a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
