@@ -9,7 +9,6 @@ tags:
 
 |Fabada|
 |Sopa castellana|
-|Sopa de cocido|
 |Pimientos rellenos de merluza y gambas|
 |Ensalada con rulo de cabra y frutos secos|
 |Arroz con bogavante|
@@ -18,8 +17,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Carrillada al Pedro Ximénez|
-|Entrecot|
-|Bacalao al horno|
+|Chuletas de cordero|
 |Pulpo a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
