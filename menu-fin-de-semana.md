@@ -9,15 +9,16 @@ tags:
 
 |Fabada|
 |Sopa castellana|
-|Pimientos rellenos de merluza y gambas|
+|Espárragos trigueros envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
-|Arroz con bogavante|
+|Pisto castellano con huevo|
 
 ------
 
 |Carrillada al Pedro Ximénez|
-|Chuletas de cordero|
-|Cachopo|
+|Entrecot|
+|Rabo de toro al vino tinto|
+|Presa ibérica|
 |Pulpo a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
