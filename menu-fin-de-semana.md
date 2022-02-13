@@ -19,7 +19,7 @@ tags:
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Presa ibérica|
-|Corvina a la plancha o rebozada|
+|Filetes de corvina a la plancha o rebozada|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
