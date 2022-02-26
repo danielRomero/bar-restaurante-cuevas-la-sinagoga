@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Arroz con bogavante|
+|Pimientos rellenos de merluza y gambas|
 |Fabada|
 |Sopa castellana|
 |Ensalada con rulo de cabra y frutos secos|
