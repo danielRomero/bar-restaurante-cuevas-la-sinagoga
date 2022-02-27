@@ -16,6 +16,7 @@ tags:
 ------
 
 |Carrillada al Pedro Ximénez|
+|Chuletas de cordero|
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Presa ibérica|
