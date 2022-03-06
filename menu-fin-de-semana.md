@@ -9,7 +9,6 @@ tags:
 
 |Fabada|
 |Sopa castellana|
-|Potaje de garbanzos|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra y frutos secos|
 
