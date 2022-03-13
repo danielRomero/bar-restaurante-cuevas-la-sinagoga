@@ -16,6 +16,7 @@ tags:
 
 |Carrillada al Pedro Ximénez|
 |Entrecot|
+|Chuletas de codero|
 |Rabo de toro al vino tinto|
 |Bacalao al horno|
 
