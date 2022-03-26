@@ -9,7 +9,7 @@ tags:
 
 |Fabada|
 |Sopa castellana|
-|Pimientos rebozados rellenos con merluza y gambas|
+|Pisto castellano con huevo|
 |Trigueros a la plancha envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
 
