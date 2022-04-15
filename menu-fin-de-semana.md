@@ -9,6 +9,7 @@ tags:
 
 |Fabada|
 |Sopa castellana|
+|pararas con congrio|
 |Pimientos rellenos de merluza y gambas|
 |Ensalada con rulo de cabra y frutos secos|
 
@@ -18,6 +19,7 @@ tags:
 |Entrecot|
 |Presa ibérica|
 |Bacalao al horno|
+|Pulpo a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
