@@ -9,7 +9,7 @@ tags:
 
 |Fabada|
 |Sopa castellana|
-|pararas con congrio|
+|Patatas con congrio y almejas|
 |Pimientos rellenos de merluza y gambas|
 |Ensalada con rulo de cabra y frutos secos|
 
