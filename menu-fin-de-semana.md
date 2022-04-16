@@ -9,13 +9,14 @@ tags:
 
 |Fabada|
 |Sopa castellana|
-|Patatas con congrio y almejas|
-|Pimientos rellenos de merluza y gambas|
+|Pisto castellano con huevo|
+|Arroz caldoso con marisco|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
 
 |Rabo de toro al vino tinto|
+|Costillas con salsa barbacoa|
 |Entrecot|
 |Presa ibérica|
 |Bacalao al horno|
