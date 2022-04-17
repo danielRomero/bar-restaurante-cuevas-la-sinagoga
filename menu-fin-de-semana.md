@@ -9,7 +9,6 @@ tags:
 
 |Fabada|
 |Sopa castellana|
-|Pisto castellano con huevo|
 |Arroz caldoso con marisco|
 |Ensalada con rulo de cabra y frutos secos|
 
