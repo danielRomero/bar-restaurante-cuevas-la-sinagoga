@@ -16,7 +16,7 @@ tags:
 ------
 
 |Rabo de toro al vino tinto|
-|Costillas con salsa barbacoa|
+|Chuletas de cordero|
 |Presa ibérica|
 |Bacalao al horno|
 |Pulpo a la plancha|
