@@ -9,16 +9,15 @@ tags:
 
 |Fabada|
 |Sopa castellana|
-|Arroz caldoso con marisco|
+|Pisto castellano con huevo|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Chuletas de cordero|
+|Entrecot|
 |Presa ibérica|
-|Bacalao al horno|
-|Pulpo a la plancha|
+|Emperador a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
