@@ -7,9 +7,10 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Fabada|
+|Arroz con bogavante|
+|Setas con mollejas|
 |Sopa castellana|
-|Pisto castellano con huevo|
+|Salmorejo|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
@@ -17,7 +18,9 @@ tags:
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Presa ibérica|
-|Emperador a la plancha|
+|Filete de lubina a la plancha|
+|Pulpo a la plancha|
+|Cordero asado (por 4€ más, en total saldría el menú por 26€)|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
