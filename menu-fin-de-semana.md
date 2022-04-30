@@ -20,7 +20,7 @@ tags:
 |Presa ibérica|
 |Filete de lubina a la plancha|
 |Pulpo a la plancha|
-|Cordero asado (por 4€ más, en total saldría el menú por 26€)|
+|Cordero asado (por 4€ más. Eligiendo este segundo el menú saldría por 26€)|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
