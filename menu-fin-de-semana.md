@@ -11,6 +11,7 @@ tags:
 |Setas con mollejas|
 |Sopa castellana|
 |Salmorejo|
+|Pimientos rellenos de merluza y gambas|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
