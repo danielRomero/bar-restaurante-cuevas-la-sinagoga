@@ -7,9 +7,8 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Arroz con bogavante|
-|Setas con mollejas|
-|Sopa castellana|
+|Fabada|
+|Pisto castellano con huevo|
 |Salmorejo|
 |Pimientos rellenos de merluza y gambas|
 |Ensalada con rulo de cabra y frutos secos|
@@ -19,9 +18,8 @@ tags:
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Presa ibérica|
+|Carrilleras al Pedro Ximenez|
 |Filete de lubina a la plancha|
-|Pulpo a la plancha|
-|Cordero asado (por 4€ más. Eligiendo este segundo el menú saldría por 26€)|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
