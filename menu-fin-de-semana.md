@@ -9,15 +9,16 @@ tags:
 
 |Salmorejo|
 |Pisto castellano con huevo|
-|Cogollos con ventresca y anchoas|
-|Pimientos rellenos de merluza y gambas|
+|Ensalada con rulo de cabra y frutos secos|
+|Langostinos con salsa rosa|
 |Sopa castellana|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Carrilleras al Pedro Ximenez|
+|Costillas con salsa barbacoa|
+|Pulpo a la plancha|
 |Filete de lubina a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
