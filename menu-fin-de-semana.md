@@ -10,7 +10,7 @@ tags:
 |Salmorejo|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra y frutos secos|
-|Langostinos con salsa rosa|
+|Fabes con almejas|
 |Sopa castellana|
 
 ------
