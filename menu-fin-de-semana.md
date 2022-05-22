@@ -17,6 +17,8 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Entrecot|
+|Presa ibérica a la plancha|
+|Chuletas de cordero|
 |Costillas con salsa barbacoa|
 |Pulpo a la plancha|
 |Filete de lubina a la plancha|
