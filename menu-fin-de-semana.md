@@ -12,7 +12,7 @@ tags:
 |Pisto castellano con huevo|
 |Trigueros a la plancha envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
-|Pimientos rellenos de merluza y gambas|
+|Alcachofas confitadas con jamón|
 
 ------
 
