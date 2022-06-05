@@ -10,14 +10,14 @@ tags:
 |Salmorejo|
 |Sopa castellana|
 |Pisto castellano con huevo|
-|Langostinos con salsa rosa|
+|Trigueros a la plancha envueltos en bacon|
 |Ensalada con rulo de cabra y frutos secos|
 |Pimientos rellenos de merluza y gambas|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Carrilleras al Pedro Ximenez|
+|Chuletas de cordero|
 |Entrecot|
 |Pulpo a la plancha|
 |Filete de lubina a la plancha|
