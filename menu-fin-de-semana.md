@@ -8,19 +8,18 @@ tags:
 # Menú fin de semana - 22€
 
 |Salmorejo|
-|Sopa castellana|
-|Pisto castellano con huevo|
-|Trigueros a la plancha envueltos en bacon|
+|Ensalada tropical|
 |Ensalada con rulo de cabra y frutos secos|
-|Alcachofas confitadas con jamón|
+|Pisto castellano con huevo|
+|Arroz con marisco|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Chuletas de cordero|
+|Carrilleras al Pedro Ximenez|
 |Entrecot|
-|Pulpo a la plancha|
-|Filete de lubina a la plancha|
+|Bonito a la riojana|
+|Lubina a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
