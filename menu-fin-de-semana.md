@@ -7,18 +7,16 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Salmorejo|
+|Salmorejo o gazpacho|
 |Ensalada de gambas y salsa rosa|
 |Ensalada con rulo de cabra y frutos secos|
 |Pisto castellano con huevo|
-|Trigueros a la plancha envueltos en bacon|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Carrilleras al Pedro Ximenez|
-|Entrecot|
-|Pulpo a la plancha|
+|Medallón de solomillo de termera|
+|Chuletas de cordero|
 |Dorada a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
