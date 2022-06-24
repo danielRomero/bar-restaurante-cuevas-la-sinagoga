@@ -10,7 +10,8 @@ tags:
 |Salmorejo o gazpacho|
 |Ensalada de gambas y salsa rosa|
 |Ensalada con rulo de cabra y frutos secos|
-|Pimientos rellenos con merluza y gambas|
+|Pimientos rellenos de merluza y gambas|
+|Pisto castellano con huevo|
 
 ------
 
