@@ -22,4 +22,6 @@ tags:
 |Hamburguesa con jamón ibérico, queso de rulo de cabra, salsa barbacoa y patatas|10.00|
 |Hamburguesa con bacon, queso, salsa burguer y patatas|9.00|
 
+|Paletilla de cordero de lechal asada|24.50|
+
 {% include footer-menu.md %}
