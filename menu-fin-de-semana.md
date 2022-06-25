@@ -18,7 +18,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Medallón de solomillo de termera|
 |Chuletas de cordero|
-|Dorada a la plancha|
+|Filete de dorada a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
