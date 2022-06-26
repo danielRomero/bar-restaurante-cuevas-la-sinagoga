@@ -16,7 +16,7 @@ tags:
 ------
 
 |Rabo de toro al vino tinto|
-|Medallón de solomillo de termera|
+|Entrecot|
 |Chuletas de cordero|
 |Filete de dorada a la plancha|
 
