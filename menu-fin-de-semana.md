@@ -18,7 +18,7 @@ tags:
 |Entrecot|
 |Secreto ibérico|
 |Carrileras al Pedro Ximenez|
-|Bacalao al horno|
+|Lomos de bacalao rebozados|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
