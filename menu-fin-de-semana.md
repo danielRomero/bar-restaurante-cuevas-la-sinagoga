@@ -8,16 +8,15 @@ tags:
 # Menú fin de semana - 22€
 
 |Salmorejo|
-|Trigueros a la planncha envueltos en bacon|
-|Ensalada con rulo de cabra y frutos secos|
-|Ensalada con gambas y salsa rosa|
 |Pisto castellano con huevo|
+|Langostinos con salsa rosa|
+|Ensalada con rulo de cabra y frutos secos|
+|Risotto de setas y boletus|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Chuletas de cordero|
-|Secreto ibérico|
+|Entrecot|
 |Carrileras al Pedro Ximenez|
 |Emperador a la plancha|
 
