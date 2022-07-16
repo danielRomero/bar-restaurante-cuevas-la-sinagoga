@@ -11,7 +11,7 @@ tags:
 
 # Primeros platos
 
-|Alcachofa confitada con jamón|11.00|
+<!--- |Alcachofa confitada con jamón|11.00| -->
 |Berenjenas a la miel de la alcarria|12.00|
 |Sopa de cocido|5.00|
 |Sopa castellana|5.00|
