@@ -7,11 +7,12 @@ tags:
 
 # Segundos platos
 
+<!--- |Confit de pato con salsa de naranja|12.50| -->
+
 |Entrecot de ternera|18.00|
 |Solomillo de ternera|20.00|
 |Cachopo de ternera|17.00|
 |Rabo de toro al vino tinto|12.00|
-<!--- |Confit de pato con salsa de naranja|12.50| -->
 |Chuletas de cordero|13.50|
 |Mollejas de cordero|13.50|
 |Secreto o presa de cerdo|11.00|
