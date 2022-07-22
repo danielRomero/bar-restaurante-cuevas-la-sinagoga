@@ -7,8 +7,6 @@ tags:
 
 # Segundos platos
 
-<!--- |Confit de pato con salsa de naranja|12.50| -->
-
 |Entrecot de ternera|18.00|
 |Solomillo de ternera|20.00|
 |Cachopo de ternera|17.00|
@@ -17,6 +15,7 @@ tags:
 |Mollejas de cordero|13.50|
 |Secreto o presa de cerdo|11.00|
 |Huevos rotos con jamón ibérico|9.00|
+|Confit de pato con salsa de naranja|12.50|
 |Emperador a la plancha|10.00|
 |Merluza a la romana|10.00|
 |Pulpo a la plancha|12.00|
