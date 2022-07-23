@@ -9,16 +9,17 @@ tags:
 
 |Salmorejo|
 |Pisto castellano con huevo|
-|Langostinos con salsa rosa|
+|ensalada con langostinos y salsa rosa|
 |Ensalada con rulo de cabra y frutos secos|
-|Risotto de setas y boletus|
+|Pimientos rellenos de merluza|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Carrileras al Pedro Ximenez|
-|Emperador a la plancha|
+|Secreto ibérico|
+|Pulpo a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
