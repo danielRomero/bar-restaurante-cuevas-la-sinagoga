@@ -17,7 +17,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Carrileras al Pedro Ximenez|
+|Chuletas de cordero|
 |Secreto ibérico|
 |Pulpo a la plancha|
 
