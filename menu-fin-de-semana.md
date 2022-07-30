@@ -9,17 +9,17 @@ tags:
 
 |Salmorejo|
 |Pisto castellano con huevo|
-|ensalada con langostinos y salsa rosa|
+|Sopa de marisco|
 |Ensalada con rulo de cabra y frutos secos|
-|Pimientos rellenos de merluza|
+|Trigueros envueltos en bacon|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Chuletas de cordero|
+|Costillas con salsa barbacoa|
 |Secreto ibérico|
-|Pulpo a la plancha|
+|Salmón a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
