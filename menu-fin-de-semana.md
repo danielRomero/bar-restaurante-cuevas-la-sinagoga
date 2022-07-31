@@ -16,7 +16,7 @@ tags:
 ------
 
 |Rabo de toro al vino tinto|
-|Entrecot|
+|Solomillo de ternera|
 |Costillas con salsa barbacoa|
 |Secreto ibérico|
 |Salmón a la plancha|
