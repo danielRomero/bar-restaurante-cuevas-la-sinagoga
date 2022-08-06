@@ -8,18 +8,18 @@ tags:
 # Menú fin de semana - 22€
 
 |Salmorejo|
+|Langostinos con salsa rosa|
 |Pisto castellano con huevo|
-|Sopa de marisco|
+|Arroz caldoso con marisco|
 |Ensalada con rulo de cabra y frutos secos|
-|Trigueros envueltos en bacon|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Solomillo de ternera|
-|Costillas con salsa barbacoa|
 |Secreto ibérico|
-|Salmón a la plancha|
+|Entrecot|
+|Huevos rotos con jamón ibérico|
+|Emperador a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
