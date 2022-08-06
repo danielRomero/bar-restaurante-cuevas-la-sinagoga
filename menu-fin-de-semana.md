@@ -16,7 +16,7 @@ tags:
 ------
 
 |Rabo de toro al vino tinto|
-|Secreto ibérico|
+|Chuletas de cordero|
 |Entrecot|
 |Huevos rotos con jamón ibérico|
 |Emperador a la plancha|
