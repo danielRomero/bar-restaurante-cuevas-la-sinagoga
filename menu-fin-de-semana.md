@@ -16,7 +16,7 @@ tags:
 ------
 
 |Rabo de toro al vino tinto|
-|Chuletas de cordero|
+|Carrilleras al Pedro Ximenez|
 |Entrecot|
 |Huevos rotos con jamón ibérico|
 |Emperador a la plancha|
