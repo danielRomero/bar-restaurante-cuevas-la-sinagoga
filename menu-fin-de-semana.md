@@ -17,7 +17,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Carrilleras al Pedro Ximenez|
-|Entrecot|
+|Secreto ibérico|
 |Huevos rotos con jamón ibérico|
 |Emperador a la plancha|
 
