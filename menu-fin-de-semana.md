@@ -16,7 +16,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Carrilleras al Pedro Ximenez|
-|Solomillo de ternera|
+|Entrecot|
 |Emperador a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
