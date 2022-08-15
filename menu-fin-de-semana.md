@@ -8,7 +8,7 @@ tags:
 # Menú fin de semana - 22€
 
 |Salmorejo|
-|Sopa de cocido|
+|Sopa de fideos|
 |Ensalada de cogollos con ventresca y anchoas|
 |Rissotto|
 |Ensalada con rulo de cabra y frutos secos|
