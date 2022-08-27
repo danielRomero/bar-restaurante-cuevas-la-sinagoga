@@ -11,7 +11,7 @@ tags:
 |Espárragos trigueros envueltos en bacon|
 |Arroz caldoso con marisco|
 |Pisto castellano con huevo|
-|Ensalada con rulo de cabra y frutos secos|
+|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
