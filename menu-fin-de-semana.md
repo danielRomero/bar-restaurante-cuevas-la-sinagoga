@@ -8,9 +8,9 @@ tags:
 # Menú fin de semana - 22€
 
 |Salmorejo|
-|Pimientos rellenos de merluza y gambas|
-|Sopa de fideos|
-|Ensalada de cogollos con ventresca y anchoas|
+|Espárragos trigueros envueltos en bacon|
+|Arroz caldoso con marisco|
+|Pisto castellano con huevo|
 |Ensalada con rulo de cabra y frutos secos|
 
 ------
