@@ -16,6 +16,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Secreto ibérico|
+|Carilleras al Pedro Ximenez|
 |Entrecot|
 |Salmón a la plancha|
 
