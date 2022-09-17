@@ -7,15 +7,15 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Judías con almejas|
-|Salmorejo|
+|Pimientos rellenos de merluza y gambas|
+|Sopa castellana|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Carilleras al Pedro Ximenez|
+|Secreto ibérico|
 |Entrecot|
 |Emperador a la plancha|
 
