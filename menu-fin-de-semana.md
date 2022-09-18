@@ -15,7 +15,7 @@ tags:
 ------
 
 |Rabo de toro al vino tinto|
-|Secreto ibérico|
+|Presa ibérica|
 |Entrecot|
 |Emperador a la plancha|
 
