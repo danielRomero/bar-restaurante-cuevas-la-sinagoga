@@ -12,7 +12,7 @@ redirect_from:
   - /
 ---
 
-# Cerrado por vacaciones.
+# Cerrado por vacaciones. Volvemos el día 12 de octubre.
 
 
 {% include footer-only-address.md %}
