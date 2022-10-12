@@ -1,6 +1,6 @@
 ---
 title: Cerrado por Vacaciones
-published: true
+published: false
 tags:
   - closed
 redirect_from:
