@@ -14,7 +14,7 @@ tags:
 
 ------
 
-|Varrilleras al Pedro Ximenez|
+|Carrilleras al Pedro Ximenez|
 |Secreto|
 |Entrecot|
 |Salmón a la plancha|
