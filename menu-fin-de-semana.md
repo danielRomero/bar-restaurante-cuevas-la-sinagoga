@@ -8,7 +8,6 @@ tags:
 # Menú fin de semana - 22€
 
 |Fabada|
-|Migas castellanas con uvas del huerto|
 |Sopa castellana|
 |Pisto castellano con huevo|
 |Espárragos trigueros envueltos en bacon|
