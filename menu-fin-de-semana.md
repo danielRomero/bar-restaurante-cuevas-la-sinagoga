@@ -19,7 +19,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Secreto ibérico|
 |Entrecot|
-|Merluza en salsa marinera|
+|Emperador a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
