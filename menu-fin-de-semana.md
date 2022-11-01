@@ -8,16 +8,14 @@ tags:
 # Menú fin de semana - 22€
 
 |Fabada|
-|Sopa castellana|
+|Sopa de marisco|
 |Pisto castellano con huevo|
-|Espárragos trigueros envueltos en bacon|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Carrilleras al Pedro Ximenez|
-|Rabo de toro al vino tinto|
-|Secreto ibérico|
+|Costillas barbacoa|
 |Entrecot|
 |Emperador a la plancha|
 
