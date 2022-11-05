@@ -16,6 +16,7 @@ tags:
 
 |Carrilleras al Pedro Ximenez|
 |Rabo de toro al vino tinto|
+|Secreto ibérico|
 |Solomillo de ternera|
 |Filete de lubina a la plancha|
 
