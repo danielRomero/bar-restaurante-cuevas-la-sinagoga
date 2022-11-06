@@ -15,7 +15,7 @@ tags:
 ------
 
 |Rabo de toro al vino tinto|
-|Secreto ibérico|
+|Cachopo|
 |Entrecot|
 |Filete de lubina a la plancha|
 
