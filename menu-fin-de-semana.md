@@ -8,7 +8,7 @@ tags:
 # Menú fin de semana - 22€
 
 |Fabada|
-|Pimientos rellenos con merluza y gambas|
+|Trigueros a la plancha envueltos en bacon|
 |Sopa castellana|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
