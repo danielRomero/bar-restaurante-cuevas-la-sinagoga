@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Judías blancas|
+|Arroz caldoso con marisco|
 |Pisto castellano con huevo|
 |Sopa castellana|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
