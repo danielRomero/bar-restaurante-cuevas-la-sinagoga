@@ -22,7 +22,7 @@ tags:
 |Ramón Bilbao crianza|14.00|
 |Cune crianza|16.00|
 |Marqués de Cáceres crianza|19.00|
-|Marqués de Riscal reserva|20.00|
+|Marqués de Riscal reserva|23.00|
 |Rioja jóven|6.50|
 
 |Ribera del Duero|   |
