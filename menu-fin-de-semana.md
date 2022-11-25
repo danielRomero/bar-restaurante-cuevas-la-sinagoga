@@ -7,17 +7,17 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Arroz caldoso con marisco|
+|Revuelto de setas con gambas|
 |Pisto castellano con huevo|
-|Sopa castellana|
+|Fabada|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Costillas al horno con salsa barbacoa|
+|Carrilleras al Pedro Ximenez|
 |Entrecot|
-|Bacalao al horno|
+|Cocochas de bacalao rebozadas|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
