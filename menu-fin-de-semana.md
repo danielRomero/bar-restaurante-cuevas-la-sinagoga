@@ -9,7 +9,7 @@ tags:
 
 |Revuelto de setas con gambas|
 |Pisto castellano con huevo|
-|Fabada|
+|Sopa castellana|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
