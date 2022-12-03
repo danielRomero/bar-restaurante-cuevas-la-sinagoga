@@ -7,8 +7,8 @@ tags:
 
 # Menú fin de semana - 22€
 
+|Fabada|
 |Revuelto de setas con gambas|
-|Pisto castellano con huevo|
 |Sopa castellana|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
@@ -17,7 +17,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Carrilleras al Pedro Ximenez|
 |Entrecot|
-|Cocochas de bacalao rebozadas|
+|Bacalao rebozado|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
