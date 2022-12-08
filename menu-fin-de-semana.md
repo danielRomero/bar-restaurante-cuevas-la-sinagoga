@@ -7,29 +7,18 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Sopa de marisco|
-|Pimientos rellenos de carne|
-|Pisto castellano con huevo|
-|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-
-<!--
-|Fabada|
-|Revuelto de setas con gambas|
+|Arroz caldoso con marisco|
 |Sopa castellana|
--->
+|Judías con almejas|
+|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
-|Presa ibérica|
-|Entrecot|
-|Costillas barbacoa|
-|Emperador a la plancha|
-
-<!--
 |Rabo de toro al vino tinto|
 |Carrilleras al Pedro Ximenez|
-|Bacalao rebozado|
--->
+|Secreto ibérico|
+|Emperador a la plancha|
+
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
