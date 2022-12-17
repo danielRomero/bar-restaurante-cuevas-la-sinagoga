@@ -10,8 +10,9 @@ tags:
 |Fabada|
 |Sopa castellana|
 |Ensalada con salmón|
-<!-- |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos| -->
 |Pisto castellano|
+
+<!-- |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos| -->
 
 ------
 
