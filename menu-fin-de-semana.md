@@ -7,19 +7,17 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Fabada|
-|Sopa castellana|
-|Ensalada con salmón|
-|Pisto castellano|
-
-<!-- |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos| -->
+|Espárragos trigueros a la plancha envueltos en bacon|
+|Sopa de marisco|
+|Pisto castellano con huevo|
+|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Cocochas de bacalao|
-|Cachopo|
+|Secreto ibérico|
+|Emperador a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
