@@ -7,8 +7,8 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Espárragos trigueros a la plancha envueltos en bacon|
-|Sopa de marisco|
+|Revuelto de setas con gambas|
+|Sopa castellana|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
