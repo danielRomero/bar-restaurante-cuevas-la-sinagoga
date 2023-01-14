@@ -7,13 +7,15 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Revuelto de setas con gambas|
-|Sopa castellana|
+|Fabada|
 |Pisto castellano con huevo|
+|Pimientos del piquillo rellenos de merluza y gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
+|Sopa castellana|
 
 ------
 
+|Solomillo|
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Secreto ibérico|
