@@ -15,7 +15,6 @@ tags:
 
 ------
 
-|Solomillo|
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Secreto ibérico|
