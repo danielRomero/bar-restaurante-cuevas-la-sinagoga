@@ -15,7 +15,7 @@ tags:
 
 ------
 
-|Rabo de toro al vino tinto|
+|Cachopo|
 |Entrecot|
 |Secreto ibérico|
 |Emperador a la plancha|
