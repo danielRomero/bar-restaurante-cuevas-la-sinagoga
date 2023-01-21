@@ -14,11 +14,11 @@ tags:
 |Sopa castellana|
 
 ------
-
-|Cachopo|
+|Carrilleras al Pedro Ximenez|
+|Rabo de toro al vino tinto|
 |Entrecot|
 |Secreto ibérico|
-|Emperador a la plancha|
+|Salmón al queso azul|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
