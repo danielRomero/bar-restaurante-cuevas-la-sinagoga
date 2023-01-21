@@ -18,7 +18,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Secreto ibérico|
-|Salmón al queso azul|
+|Salmón en salsa al queso azul|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
