@@ -15,7 +15,7 @@ tags:
 
 ------
 
-|Carrilleras al Pedro Ximenez|
+|Cachopo|
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Secreto ibérico|
