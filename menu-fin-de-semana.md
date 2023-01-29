@@ -10,12 +10,13 @@ tags:
 |Judías con almejas|
 |Trigueros a la plancha envueltos en bacon|
 |Risoto de setas|
+|Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Sopa castellana|
 
 ------
 
-|Carrilleras al Pedro Ximenez|
+|Entrecot|
 |Rabo de toro al vino tinto|
 |Solomillo de ternera|
 |Secreto ibérico|
