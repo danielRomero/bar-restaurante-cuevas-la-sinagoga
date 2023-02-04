@@ -7,9 +7,8 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Judías con almejas|
-|Trigueros a la plancha envueltos en bacon|
-|Risoto de setas|
+|Fabada|
+|Verduras a la plancha|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Sopa castellana|
@@ -18,8 +17,8 @@ tags:
 
 |Entrecot|
 |Rabo de toro al vino tinto|
-|Solomillo de ternera|
-|Secreto ibérico|
+|Carrilleras al Pedro Ximenez|
+|Cachopo|
 |Emperador a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
