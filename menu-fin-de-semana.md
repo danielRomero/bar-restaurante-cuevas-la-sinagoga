@@ -12,6 +12,7 @@ tags:
 |Arroz caldoso de marisco|
 |Ensalada con salmón y aguacate|
 |Sopa castellana|
+|Pisto castellano con huevo|
 |Pimientos rellenos de carne|
 
 ------
@@ -19,6 +20,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Carrilleras al Pedro Ximenez|
 |Cachopo|
+|Secreto ibérico|
 |Emperador a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
