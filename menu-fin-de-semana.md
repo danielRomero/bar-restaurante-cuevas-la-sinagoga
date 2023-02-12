@@ -21,6 +21,7 @@ tags:
 |Carrilleras al Pedro Ximenez|
 |Cachopo|
 |Secreto ibérico|
+|Entrecot|
 |Emperador a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
