@@ -9,20 +9,17 @@ tags:
 
 <!-- |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos| -->
 
-|Arroz caldoso de marisco|
+|Fabada|
 |Ensalada con salmón y aguacate|
 |Sopa castellana|
-|Pisto castellano con huevo|
-|Pimientos rellenos de carne|
+|Verduras a la plancha|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Carrilleras al Pedro Ximenez|
-|Cachopo|
 |Secreto ibérico|
 |Entrecot|
-|Emperador a la plancha|
+|Pulpo a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
