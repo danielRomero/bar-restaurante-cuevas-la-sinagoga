@@ -7,10 +7,8 @@ tags:
 
 # Menú fin de semana - 22€
 
-<!-- |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos| -->
-
+|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Fabada|
-|Ensalada con salmón y aguacate|
 |Sopa castellana|
 |Verduras a la plancha|
 
