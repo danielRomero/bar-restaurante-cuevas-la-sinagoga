@@ -9,6 +9,7 @@ tags:
 
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Callos con garbanzos|
+|Pisto castellano con huevo|
 |Sopa castellana|
 |Risotto de setas|
 
@@ -17,6 +18,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Secreto ibérico|
 |Entrecot|
+|Cachopo|
 |Lubina a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
