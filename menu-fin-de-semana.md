@@ -8,15 +8,17 @@ tags:
 # Menú fin de semana - 22€
 
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Arroz caldoso de marisco|
+|Salteado de verduras con gambas|
 |Sopa castellana|
+|Pisto castellano|
 |Fabada|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Carrilleras en salsa|
+|Carrilleras al Pedro Ximenez|
+|Secreto|
 |Emperador a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
