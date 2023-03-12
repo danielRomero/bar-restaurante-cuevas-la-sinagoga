@@ -17,7 +17,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Carrilleras al Pedro Ximenez|
+|Cachopo|
 |Secreto|
 |Emperador a la plancha|
 
