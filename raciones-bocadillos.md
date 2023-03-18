@@ -14,7 +14,7 @@ tags:
 |Calaramares a la romana|11.00|
 |Sepia a la plancha|12.00|
 |Chopitos|8.50|
-|Mollejas de cordero al ajillo|13.50|
+|Mollejas de cordero al ajillo|16.00|
 |Jamón ibérico|15.00|
 |Salchichón ibérico|8.00|
 |Queso manchego|14.00|
