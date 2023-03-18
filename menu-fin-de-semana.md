@@ -18,7 +18,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Carilleras al Pedro Cimenez|
+|Carilleras al Pedro Ximenez|
 |Merluza a la romana|
 
 
