@@ -12,12 +12,13 @@ tags:
 |Sopa castellana|
 |Pisto castellano|
 |Ensalada de salmón con aguacate|
-|Risotto de setas y boletus|
+|Arroz caldoso de marisco|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Entrecot|
+|Secreto|
 |Carilleras al Pedro Ximenez|
 |Merluza a la romana|
 
