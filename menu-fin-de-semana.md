@@ -22,9 +22,6 @@ tags:
 |Carilleras al Pedro Ximenez|
 |Merluza a la romana|
 
-
-|Cordero asado|Por 6€ más (28€ menú conpleto)|
-
 22€ - Vino, gaseosa, agua y postre incluidos
 
 {% include footer-menu.md %}
