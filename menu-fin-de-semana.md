@@ -10,17 +10,16 @@ tags:
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Trigueros a la plancha envueltos en bacon|
 |Sopa castellana|
-|Pisto castellano|
-|Ensalada de salmón con aguacate|
-|Arroz caldoso de marisco|
+|Fabada|
+|Pisto castellano con huevo|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Secreto|
-|Carilleras al Pedro Ximenez|
-|Merluza a la romana|
+|Cachopo|
+|Emperador a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
