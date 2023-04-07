@@ -17,6 +17,7 @@ tags:
 ------
 
 |Rabo de toro al vino tinto|
+|Carrilleras al Pedro Ximenez|
 |Entrecot|
 |Secreto|
 |Bacalao al horno|
