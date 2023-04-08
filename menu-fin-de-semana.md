@@ -9,9 +9,9 @@ tags:
 
 
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Potaje|
+|Arroz caldoso con marisco|
+|Pisto castellano con huevo|
 |Sopa castellana|
-|Risotto de setas|
 |Salmorejo|
 
 ------
@@ -20,7 +20,8 @@ tags:
 |Carrilleras al Pedro Ximenez|
 |Entrecot|
 |Secreto|
-|Bacalao al horno|
+|Emperador|
+|Filete de salmón a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
