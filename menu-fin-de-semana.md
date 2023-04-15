@@ -9,18 +9,18 @@ tags:
 
 
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Arroz caldoso con marisco|
+|Fabada|
+|Pimientos rellenos de merluza y gambas|
 |Pisto castellano con huevo|
 |Sopa castellana|
-|Salmorejo|
 
 ------
 
+|Rabo de toro al vino tinto|
 |Cachopo|
 |Entrecot|
 |Secreto|
 |Emperador|
-|Filete de salmón a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
