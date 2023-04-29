@@ -8,12 +8,10 @@ tags:
 # Menú fin de semana - 22€
 
 
-<!-- |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos| -->
-
-|Revuelto de trigueros con gambas|
-|Cogollos con ventresca y anchoas|
-|Risoto de setas|
-|Salmorejo|
+|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
+|Revuelto de trigueros con jamón|
+|Arroz caldoso de marisco|
+|Langostinos|
 |Sopa castellana|
 
 ------
