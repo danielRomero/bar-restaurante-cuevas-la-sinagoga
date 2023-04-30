@@ -13,6 +13,7 @@ tags:
 |Arroz caldoso de marisco|
 |Langostinos|
 |Sopa castellana|
+|Salmorejo|
 
 ------
 
@@ -20,6 +21,7 @@ tags:
 |Carrilleras al Pedro Ximenez|
 |Entrecot|
 |Secreto|
+|Cachopo|
 |Emperador a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
