@@ -9,19 +9,17 @@ tags:
 
 
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Revuelto de trigueros con jamón|
-|Arroz caldoso de marisco|
-|Langostinos|
+|Fabada|
+|Trigueros a la plancha envueltos en bacon|
 |Sopa castellana|
-|Salmorejo|
+|Pisto castellano con huevo|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Carrilleras al Pedro Ximenez|
-|Entrecot|
+|chuletas de cordero|
 |Secreto|
-|Cachopo|
 |Emperador a la plancha|
 
 22€ - Vino, gaseosa, agua y postre incluidos
