@@ -9,18 +9,19 @@ tags:
 
 
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Fabada|
-|Trigueros a la plancha envueltos en bacon|
+|Salmorejo|
+|Rissoto de setas|
 |Sopa castellana|
 |Pisto castellano con huevo|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Carrilleras al Pedro Ximenez|
-|chuletas de cordero|
+|Entrecot|
 |Secreto|
-|Emperador a la plancha|
+|Bacalao al horno|
+
+|Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€|
 
 22€ - Vino, gaseosa, agua y postre incluidos
 
