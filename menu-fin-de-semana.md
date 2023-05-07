@@ -12,7 +12,7 @@ tags:
 |Salmorejo|
 |Rissoto de setas|
 |Sopa castellana|
-|Pisto castellano con huevo|
+|Arroz caldoso con marisco|
 
 ------
 
