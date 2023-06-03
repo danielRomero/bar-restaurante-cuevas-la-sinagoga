@@ -7,8 +7,9 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Trigueros a la plancha envueltos en bacon|
 <!--|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|-->
+
+|Trigueros a la plancha envueltos en bacon|
 |Patatas a la marinera|
 |Sopa castellana|
 |Fabada|
