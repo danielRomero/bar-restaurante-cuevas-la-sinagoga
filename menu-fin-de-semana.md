@@ -8,18 +8,19 @@ tags:
 # Menú fin de semana - 22€
 
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Trigueros a la plancha envueltos en bacon|
-|Patatas a la marinera|
+|Ensalada con salmón y aguacate|
+|Salmorejo|
+|Fabada|
 |Sopa castellana|
 |Pisto castellano con huevo|
 
 ------
 
 |Rabo de toro al vino tinto|
-|Cochinillo cochifrito|
-|Secreto|
 |Carrilleras al Pedro Ximenez|
-|Dorada a la plancha|
+|Secreto|
+|Entrecot|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
