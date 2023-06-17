@@ -7,11 +7,11 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Ensalada con salmón y aguacate|
-|Salmorejo|
-|Fabada|
+|Trigueros en cama de su salsa con virutas de jamón ibérico|
+|Pimientos rellenos de merluza y gambas|
 |Sopa castellana|
+|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
+|Salmorejo|
 |Pisto castellano con huevo|
 
 ------
@@ -20,7 +20,7 @@ tags:
 |Carrilleras al Pedro Ximenez|
 |Secreto|
 |Entrecot|
-|Emperador a la plancha|
+|Cocochas de bacalao|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
