@@ -12,14 +12,14 @@ tags:
 |Croquetas de rabo de toro|10.00|
 |Croquetas de queso roquefort|10.00|
 |Calaramares a la romana|11.00|
-|Sepia a la plancha|12.00|
+|Sepia a la plancha|14.00|
 |Chopitos|8.50|
 |Mollejas de cordero al ajillo|16.00|
 |Jamón ibérico|15.00|
 |Salchichón ibérico|8.00|
 |Queso manchego|14.00|
 |Tosta de jamón ibérico y huevo frito|8.00|
-|Revuelto de morcilla con pasas y piñones|10.00|
+|Revuelto de morcilla con pasas y piñones|11.00|
 
 # Bocadillos
 
@@ -28,14 +28,14 @@ tags:
 |Chorizo ibérico|5.00|
 |Salchichón ibérico|5.00|
 |Chorizo frito|4.00|
-|Lomo a la plancha|5.00|
+|Lomo a la plancha|6.00|
 |Pepito de ternera|7.00|
-|Bacon|4.00|
-|Calamares a la romana|6.00|
+|Bacon|5.00|
+|Calamares a la romana|8.00|
 
 # Hamburguesas
 
-|Hamburguesa con jamón ibérico, queso de rulo cabra, salsa barbacoa y patatas|10.00|
-|Hamburguesa con bacon, queso, salsa burguer y patatas|9.00|
+|Hamburguesa con jamón ibérico, queso de rulo cabra, salsa barbacoa y patatas|12.00|
+|Hamburguesa con bacon, queso, salsa burguer y patatas|10.00|
 
 {% include footer-menu.md %}
