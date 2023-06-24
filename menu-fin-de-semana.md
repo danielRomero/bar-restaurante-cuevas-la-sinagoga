@@ -7,8 +7,7 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Trigueros en cama de su salsa con virutas de jamón ibérico|
-|Pimientos rellenos de merluza y gambas|
+|Risotto de setas|
 |Sopa castellana|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Salmorejo|
@@ -17,10 +16,10 @@ tags:
 ------
 
 |Rabo de toro al vino tinto|
-|Carrilleras al Pedro Ximenez|
-|Secreto|
 |Entrecot|
-|Cocochas de bacalao|
+|Cochinillo cochifrito|
+|Secreto|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
