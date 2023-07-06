@@ -16,7 +16,7 @@ tags:
 
 |Riojas|   |
 |---|---|
-|Montecillo crianza|12.00|
+|Cantos de Valpiedra crianza|14.00|
 |Viña Alcorta 3/8 crianza|6.00|
 |Viña Alcorta crianza|10.00|
 |Ramón Bilbao crianza|14.00|
