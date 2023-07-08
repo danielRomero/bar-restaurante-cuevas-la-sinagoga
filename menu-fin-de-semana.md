@@ -7,19 +7,17 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Gazpacho|
-|Sopa castellana|
-|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Ensalada tropical|
+|Arroz caldoso con marisco|
+|Salmorejo|
 |Pisto castellano con huevo|
+|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Carrilleras al Pedro Ximenez|
-|Secreto|
-|Emperador a la plancha|
+|Bonito con tomate|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
