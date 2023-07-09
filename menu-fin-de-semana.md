@@ -17,7 +17,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Carrilleras al Pedro Ximenez|
-|Bonito con tomate|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
