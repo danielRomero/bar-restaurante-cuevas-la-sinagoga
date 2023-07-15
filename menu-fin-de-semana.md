@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Rissotto de setas|
+|Trigueros a la plancha envueltos en bacon|
 |Salmorejo|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
