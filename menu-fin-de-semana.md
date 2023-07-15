@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Arroz caldoso con marisco|
+|Rissotto de setas|
 |Salmorejo|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
