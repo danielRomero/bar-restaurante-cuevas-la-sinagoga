@@ -14,7 +14,7 @@ tags:
 |Chuletas de cordero|16.00|
 |Mollejas de cordero|16.00|
 |Secreto o presa de cerdo|11.00|
-|Huevos rotos con jamón ibérico|9.00|
+|Huevos rotos con jamón ibérico|12.00|
 |Confit de pato con salsa de naranja|12.50|
 |Emperador a la plancha|10.00|
 |Merluza a la romana|10.00|
