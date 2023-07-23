@@ -23,7 +23,7 @@ tags:
 |Hamburguesa con bacon, queso, salsa burguer y patatas|10.00|
 
 
-|Paletilla de lechal al horno|23.00|
+|Paletilla de lechal al horno|25.00|
 
 <!-- |Paletilla de cordero de lechal asada|24.50| -->
  
