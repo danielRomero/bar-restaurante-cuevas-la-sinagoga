@@ -16,6 +16,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Entrecot|
+|Secreto|
 |Carrilleras al Pedro Ximenez|
 |Bonito con tomate|
 
