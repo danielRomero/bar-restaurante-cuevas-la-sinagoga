@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Risoto de setas|
+|Espaguetis marinera|
 |Pisto castellano con huevo|
 |Salmorejo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
@@ -16,8 +16,8 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Carrilleras al Pedro Ximenez|
-|Bonito con tomate|
+|Secreto|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
