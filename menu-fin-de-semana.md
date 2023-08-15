@@ -7,15 +7,17 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Espaguetis marinera|
+|Trigueros a la plancha envueltos en bacon|
 |Pisto castellano con huevo|
 |Salmorejo|
-|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
+|Ensalada césar|
+
+<!-- |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos| -->
 
 ------
 
 |Rabo de toro al vino tinto|
-|Entrecot|
+|Carillada al Pedro Ximenez|
 |Secreto|
 |Emperador a la plancha|
 
