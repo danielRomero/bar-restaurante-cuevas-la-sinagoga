@@ -9,7 +9,7 @@ tags:
 
 |Pisto castellano con huevo|
 |Salmorejo|
-|Langostinos|
+|Trigueros a la plancha envueltos en bacon|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
