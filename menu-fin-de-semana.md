@@ -7,17 +7,17 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Pisto castellano con huevo|
 |Salmorejo|
-|Trigueros a la plancha envueltos en bacon|
+|Trigueros a la plancha en su salsa con jamón ibérico|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
+|Arroz caldoso con marisco|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Carillada al Pedro Ximenez|
 |Entrecot|
-|Merluza a la romana|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
