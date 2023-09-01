@@ -6,7 +6,7 @@ tags:
 ---
 
 <!--|Mollejas de cordero|16.00|-->
-<!--|Confit de pato con salsa de naranja|12.50|-->
+
 
 # Segundos platos
 
@@ -16,6 +16,7 @@ tags:
 |Rabo de toro al vino tinto|14.00|
 |Chuletas de cordero|16.00|
 |Secreto o presa de cerdo|11.00|
+|Confit de pato con salsa de naranja|14.00|
 |Huevos rotos con jamón ibérico|12.00|
 |Emperador a la plancha|10.00|
 |Merluza a la romana|10.00|
