@@ -21,6 +21,6 @@ tags:
 |Ensalada de pimimentos asados con ventresca|14.00|
 |Trigueros a la plancha|10.00|
 |Gazpacho o Salmorejo|7.00|
-|Pisto castellano con huevo|10.00|
+|Pisto castellano con huevo|12.00|
 
 {% include footer-menu.md %}
