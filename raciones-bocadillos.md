@@ -19,7 +19,7 @@ tags:
 |Salchichón ibérico|8.00|
 |Queso manchego|14.00|
 |Tosta de jamón ibérico y huevo frito|8.00|
-|Revuelto de morcilla con pasas y piñones|11.00|
+|Revuelto de morcilla con pasas y piñones|12.00|
 
 # Bocadillos
 
