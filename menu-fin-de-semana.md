@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana - 22€
 
-|Salmorejo|
+|Langostinos|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Sopa castellana|
