@@ -7,7 +7,7 @@ tags:
 
 # Cocido completo - 15€
 
-Para hoy 12 de octubre tabién hay cocido completo (2 platos) por 15€
+Para hoy 12 de octubre también hay cocido completo (2 platos) por 15€
 
 ------
 
