@@ -20,7 +20,7 @@ tags:
 |Huevos rotos con jamón ibérico|12.00|
 |Emperador a la plancha|10.00|
 |Merluza a la romana|10.00|
-|Pulpo a la plancha|14.00|
+|Pulpo a la plancha|16.00|
 |Hamburguesa con jamón ibérico, queso de rulo de cabra, salsa barbacoa y patatas|12.00|
 |Hamburguesa con bacon, queso, salsa burguer y patatas|10.00|
 
