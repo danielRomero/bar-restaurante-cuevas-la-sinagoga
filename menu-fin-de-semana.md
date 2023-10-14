@@ -5,25 +5,22 @@ tags:
   - menu-fin-de-semana
 ---
 
-# Cocido completo - 15€
-
-Para hoy 12 de octubre también hay cocido completo (2 platos) por 15€
-
-------
 
 # Menú fin de semana - 22€
 
-|Salmorejo|
+|Fabada|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Judías con almejas|
+|Ensalada de salmón, aguacate y mango|
+|Sopa castellana|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Secreto|
+|Carrilleras al Pedro Ximenez|
 |Entrecot|
-|Filetes de salmón|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
