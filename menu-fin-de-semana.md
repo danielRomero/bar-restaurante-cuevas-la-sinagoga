@@ -6,7 +6,7 @@ tags:
 ---
 
 
-# Menú fin de semana - 22€
+# Menú fin de semana - 24€
 
 |Fabada|
 |Pisto castellano con huevo|
@@ -24,6 +24,6 @@ tags:
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
-22€ - Vino, gaseosa, agua y postre incluidos
+24€ - Vino, gaseosa, agua y postre incluidos
 
 {% include footer-menu.md %}
