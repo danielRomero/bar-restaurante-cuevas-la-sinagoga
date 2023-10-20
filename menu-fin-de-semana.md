@@ -8,10 +8,10 @@ tags:
 
 # Menú fin de semana - 24€
 
-|Fabada|
+|Callos con garbanzos|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Ensalada de salmón, aguacate y mango|
+|Trigueros a la plancha en su salsa con virutas de jamón|
 |Sopa castellana|
 
 ------
