@@ -8,8 +8,7 @@ tags:
 
 # Menú fin de semana - 24€
 
-|Callos con garbanzos|
-|Pisto castellano con huevo|
+|Fabada|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Trigueros a la plancha en su salsa con virutas de jamón|
 |Sopa castellana|
@@ -17,9 +16,9 @@ tags:
 ------
 
 |Rabo de toro al vino tinto|
-|Secreto|
-|Carrilleras al Pedro Ximenez|
 |Entrecot|
+|Carrilleras al Pedro Ximenez|
+|Cachopo|
 |Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
