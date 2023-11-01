@@ -1,12 +1,12 @@
 ---
-title: Menú fin de semana
+title: Menú fin de semana y festivos
 published: true
 tags:
   - menu-fin-de-semana
 ---
 
 
-# Menú fin de semana - 24€
+# Menú fin de semana y festivos - 24€
 
 |Risoto de setas y boletus|
 |Crema de calabaza|
