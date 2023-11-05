@@ -8,8 +8,8 @@ tags:
 
 # Menú fin de semana y festivos - 24€
 
-|Risoto de setas y boletus|
-|Crema de calabaza|
+|Judías con almejas|
+|Trigueros a la plancha envueltos en bacon|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Sopa castellana|
@@ -18,7 +18,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Carrilleras al Pedro Ximenez|
+|Cachopo|
 |Secreto|
 |Emperador a la plancha|
 
