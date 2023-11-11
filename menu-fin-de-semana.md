@@ -8,8 +8,7 @@ tags:
 
 # Menú fin de semana y festivos - 24€
 
-|Judías con almejas|
-|Trigueros a la plancha envueltos en bacon|
+|Fabada|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Sopa castellana|
@@ -18,8 +17,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Cachopo|
-|Secreto|
+|Carrilleras al Pedro Ximenez|
 |Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
