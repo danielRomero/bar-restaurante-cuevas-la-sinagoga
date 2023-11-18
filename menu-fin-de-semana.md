@@ -10,7 +10,7 @@ tags:
 
 |Fabada|
 |Sopa de marisco|
-|Ensalada Kebap|
+|Ensalada de Kebab|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Vieiras gratinadas|
 
