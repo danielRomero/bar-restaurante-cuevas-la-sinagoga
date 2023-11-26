@@ -9,18 +9,16 @@ tags:
 # Menú fin de semana y festivos - 24€
 
 |Fabada|
-|Sopa de marisco|
-|Ensalada de Kebab|
+|Sopa castellana|
+|Ensalada de salmón, mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Vieiras gratinadas|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Carrilleras al Pedro Ximenez|
 |Secreto con salsa de boletus|
-|Bacalao al horno|
+|Bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
