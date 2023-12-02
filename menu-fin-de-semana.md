@@ -10,7 +10,7 @@ tags:
 
 |Sopa de marisco|
 |Sopa castellana|
-|pisto castellano con huevo|
+|Pisto castellano con huevo|
 |Pimientos rellenos de merluza y gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
@@ -18,6 +18,7 @@ tags:
 
 |Rabo de toro al vino tinto|
 |Entrecot|
+|Huevos rotos con gulas|
 |Carrilleras en salsa|
 |Besugo al horno|
 
