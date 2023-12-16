@@ -11,6 +11,7 @@ tags:
 |Pisto castellano con huevo|
 |Sopa castellana|
 |Revuelto de setas con gambas|
+|Sopa de marisco|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
@@ -18,7 +19,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Cachopo|
 |Secreto|
-|Carrilleras en salsa|
+|Entrecot|
 |Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
