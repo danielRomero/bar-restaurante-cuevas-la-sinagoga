@@ -12,7 +12,6 @@ tags:
 |Fabada|
 |Revuelto de setas con gambas|
 |Arroz caldoso con marisco|
-|Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
