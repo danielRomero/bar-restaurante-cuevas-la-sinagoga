@@ -10,10 +10,10 @@ tags:
 
 |Sopa castellana|
 |Fabada|
-|Trigueros a la plancha con salsa holandesa|
+|Revuelto de setas con gambas|
+|Arroz caldoso con marisco|
 |Pisto castellano con huevo|
-
-<!--- |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos| -->
+|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
@@ -21,6 +21,7 @@ tags:
 |Entrecot|
 |Bacalao al horno|
 |Corvina rebozada|
+|Huevos rotos con jamón ibérico|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
