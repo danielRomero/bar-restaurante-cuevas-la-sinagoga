@@ -10,8 +10,7 @@ tags:
 
 |Sopa castellana|
 |Fabada|
-|Trigueros a la plancha envueltos en bacon|
-|Pisto castellano con huevo|
+|Revuelto de setas con gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
@@ -19,8 +18,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Carrillada|
-|Secreto|
-|Emperador a la plancha|
+|Bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
