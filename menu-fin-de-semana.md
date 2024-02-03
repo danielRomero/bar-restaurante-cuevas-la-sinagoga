@@ -10,7 +10,7 @@ tags:
 
 |Pimientos rellenos de merluza y gambas|
 |Migas|
-|Fabada|
+|Judías con almejas|
 |Verduras a la plancha|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
