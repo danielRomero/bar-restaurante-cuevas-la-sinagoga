@@ -8,19 +8,17 @@ tags:
 
 # Menú fin de semana y festivos - 24€
 
-|Pimientos rellenos de merluza y gambas|
-|Migas|
-|Judías con almejas|
-|Verduras a la plancha|
+|Arroz caldoso con marisco|
+|Sopa castellana|
+|Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Carrillada|
 |Secreto|
-|Emperador a la plancha|
+|Pulpo a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
