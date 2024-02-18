@@ -14,6 +14,7 @@ tags:
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Pisto castellano con huevo|
 |Salmorejo tropical|
+|Risoto de setas|
 
 ------
 
@@ -21,7 +22,7 @@ tags:
 |Carrilleras en salsa|
 |Rabo de toro al vino tinto|
 |Secreto|
-|Ventresca de atún a la plancha|
+|Bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
