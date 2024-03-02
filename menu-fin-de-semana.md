@@ -9,20 +9,17 @@ tags:
 # Menú fin de semana y festivos - 24€
 
 
-<!-- |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos| -->
-
-|Pisto castellano con huevo|
-|Ensalada de gambas con aguacate y salsa rosa|
+|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Fabada|
-|Sopa de marisco|
+|Sopa castellana|
+|Pisto con huevo|
 
 ------
 
-|Picaña de ternera|
+|Picaña de cerdo ibérico a la placha|
 |Rabo de toro al vino tinto|
-|Secreto|
-|Carrillada en salsa|
-|Salmón a la plancha|
+|Entrecot|
+|Bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
