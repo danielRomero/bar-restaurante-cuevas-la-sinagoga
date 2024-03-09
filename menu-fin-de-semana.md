@@ -19,6 +19,7 @@ tags:
 |Carrillada en salsa|
 |Rabo de toro al vino tinto|
 |Secreto ibérico|
+|Entrecot|
 |Ventresca de atún a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
