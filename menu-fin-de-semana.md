@@ -10,16 +10,16 @@ tags:
 
 
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Fabada|
+|Judías con almejas|
 |Sopa castellana|
 |Pisto con huevo|
 
 ------
 
-|Picaña de cerdo ibérico a la placha|
+|Carrillada en salsa|
 |Rabo de toro al vino tinto|
-|Entrecot|
-|Bacalao rebozado|
+|Secreto ibérico|
+|Ventresca de atún a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
