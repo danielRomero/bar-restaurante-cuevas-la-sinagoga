@@ -8,15 +8,15 @@ tags:
 
 # Menú fin de semana y festivos - 24€
 
-|Arroz caldoso con marisco|
+|Sopa castellana|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Ensalada de gambas con naranja y aguacate|
 |Fabada|
 |Pisto castellano con huevo|
+|Salmorejo|
 
 ------
 
-|Cachopo|
+|Huevos rotos con jamón ibérico|
 |Rabo de toro al vino tinto|
 |Secreto ibérico|
 |Entrecot|
