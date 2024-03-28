@@ -10,7 +10,7 @@ tags:
 
 |Risoto de setas|
 |Sopa castellana|
-|Trigueros a la plancha envueltos en bacon|
+|Trigueros a la plancha|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
