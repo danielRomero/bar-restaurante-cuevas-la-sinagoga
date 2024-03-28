@@ -12,6 +12,7 @@ tags:
 |Sopa castellana|
 |Trigueros a la plancha|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
+|Ensalada de pimientos con ventresca|
 
 ------
 
