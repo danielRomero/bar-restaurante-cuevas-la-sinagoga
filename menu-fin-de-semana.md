@@ -8,16 +8,15 @@ tags:
 
 # Menú fin de semana y festivos - 24€
 
+|Risoto de setas|
 |Sopa castellana|
+|Trigueros a la plancha envueltos en bacon|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Fabada|
-|Pisto castellano con huevo|
-|Salmorejo|
+
 
 ------
 
-|Huevos rotos con jamón ibérico|
-|Rabo de toro al vino tinto|
+|Secreto ibérico|
 |Secreto ibérico|
 |Entrecot|
 |Ventresca de atún a la plancha|
