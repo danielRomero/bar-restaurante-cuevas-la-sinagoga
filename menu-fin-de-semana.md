@@ -16,7 +16,7 @@ tags:
 ------
 
 |Pierna de lechal al horno|
-|Picaña de ternera a la plancha|
+|Rabo de toro al vino tinto|
 |Secreto ibérico|
 |Entrecot|
 |Bacalao rebozado|
