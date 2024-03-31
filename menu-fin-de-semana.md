@@ -8,15 +8,14 @@ tags:
 
 # Menú fin de semana y festivos - 24€
 
-|Potaje|
-|Judías con almejas|
+|Pisto con huevo|
+|Sopa castellana|
 |Trigueros a la plancha|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
-|Pierna de lechal al horno|
-|Rabo de toro al vino tinto|
+|Carrilleras en salsa|
 |Secreto ibérico|
 |Entrecot|
 |Bacalao rebozado|
