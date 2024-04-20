@@ -9,18 +9,18 @@ tags:
 # Menú fin de semana y festivos - 24€
 
 |Fabada|
-|Ensalada de pollo con miel y mostaza|
+|Revuelto de setas con gambas|
 |Salmorejo|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
-|Cachopo|
-|Picaña de ternera|
+|Entrecot|
+|Carrilleras|
 |Secreto ibérico|
 |Rabo de toro al vino tinto|
-|Ventresca de atún|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 6€ al menú, en total 28€| -->
 
