@@ -9,7 +9,7 @@ tags:
 # Menú fin de semana y festivos - 24€
 
 |Trigueros a la plancha|
-|Ensalada de salmón, mango y aguacate|
+|Ensalada con pollo y salsa de miel y mostaza|
 |Sopa castellana|
 |Arroz caldoso con marisco y bogavante|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
