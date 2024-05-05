@@ -22,7 +22,7 @@ tags:
 |Pulpo a la plancha|
 |Bacalao rebozado|
 
-|Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€|
+<!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
 24€ - Vino, gaseosa, agua y postre incluidos
 
