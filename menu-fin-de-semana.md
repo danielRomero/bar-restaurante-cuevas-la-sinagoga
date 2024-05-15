@@ -8,20 +8,19 @@ tags:
 
 # Menú fin de semana y festivos - 24€
 
-|Trigueros a la plancha en su salsa|
-|Espaguetis a la marinera|
-|Sopa castellana|
+|Fabada|
 |Salmorejo|
+|Pisto castellano con huevo|
+|Ensaladilla con gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Entrecot|
-|Carrillada|
+|Cachopo|
 |Secreto ibérico|
 |Rabo de toro al vino tinto|
-|Emperador a la plancha|
-|Pulpo a la plancha|
+|Bacalao con tomate|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
