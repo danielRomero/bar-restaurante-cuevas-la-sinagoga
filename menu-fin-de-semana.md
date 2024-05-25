@@ -8,16 +8,16 @@ tags:
 
 # Menú fin de semana y festivos - 24€
 
-|Fabada|
+|Trigueros a la plancha en su salsa|
 |Salmorejo|
 |Pisto castellano con huevo|
-|Ensaladilla con gambas|
+|Risoto de setas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Entrecot|
-|Cachopo|
+|Carrillada|
 |Secreto ibérico|
 |Rabo de toro al vino tinto|
 |Bacalao con tomate|
