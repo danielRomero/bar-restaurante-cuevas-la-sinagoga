@@ -6,7 +6,7 @@ tags:
 ---
 
 
-# Menú fin de semana y festivos - 24€
+# Menú fin de semana y festivos - 26€
 
 |Pisto castellano con huevo|
 |Langostinos|
@@ -24,6 +24,6 @@ tags:
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
-24€ - Vino, gaseosa, agua y postre incluidos
+26€ - Vino, gaseosa, agua y postre incluidos
 
 {% include footer-menu.md %}
