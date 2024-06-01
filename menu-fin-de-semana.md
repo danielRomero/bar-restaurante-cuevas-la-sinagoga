@@ -8,18 +8,19 @@ tags:
 
 # Menú fin de semana y festivos - 24€
 
-|Revuelto de trigueros con jamón|
+|Pisto castellano con huevo|
+|Langostinos|
 |Sopa castellana|
-|Risoto de setas|
+|Salmorejo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Cachopo|
-|Carrillada|
 |Secreto|
+|Entrecot|
 |Rabo de toro al vino tinto|
-|Bacalao con tomate|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
