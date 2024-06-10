@@ -17,20 +17,16 @@ tags:
 |Riojas|   |
 |---|---|
 |Cantos de Valpiedra crianza|14.00|
-|Viña Alcorta 3/8 crianza|6.00|
-|Viña Alcorta crianza|10.00|
 |Ramón Bilbao crianza|14.00|
 |Cune crianza|16.00|
-|Marqués de Cáceres crianza|19.00|
 |Marqués de Riscal reserva|23.00|
 |Rioja jóven|6.50|
 
 |Ribera del Duero|   |
 |---|---|
+|Señorío de la Nava|14.00|
 |Protos|14.00|
 |Mayor de Castilla|7.00|
-|Vegantigua|12.00|
-|Celeste Roble|14.00|
 |Pruno Roble|16.50|
 
 |Blancos|   |
