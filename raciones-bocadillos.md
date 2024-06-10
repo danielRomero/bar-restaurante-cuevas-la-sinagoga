@@ -7,14 +7,14 @@ tags:
 
 # Raciones
 
-|Patatas 3 salsas (brava, alioli y deluxe)|6.00|
+|Patatas 3 salsas (brava, alioli y deluxe)|8.00|
 |Croquetas caseras de jamón y cocido|10.00|
 |Croquetas de rabo de toro|10.00|
 |Croquetas de queso roquefort|10.00|
 |Calaramares a la romana|11.00|
 |Sepia a la plancha|14.00|
 |Chopitos|8.50|
-|Mollejas de cordero al ajillo|16.00|
+|Mollejas de cordero al ajillo|19.00|
 |Jamón ibérico|15.00|
 |Salchichón ibérico|8.00|
 |Queso manchego|14.00|
