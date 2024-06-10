@@ -5,9 +5,6 @@ tags:
   - menu
 ---
 
-<!--|Mollejas de cordero|16.00|-->
-
-
 # Segundos platos
 
 |Entrecot de ternera|20.00|
@@ -15,6 +12,7 @@ tags:
 |Cachopo de ternera|17.00|
 |Rabo de toro al vino tinto|14.00|
 |Chuletas de cordero|16.00|
+|Mollejas de cordero|19.00|
 |Secreto o presa de cerdo|11.00|
 |Confit de pato con salsa de naranja|14.00|
 |Huevos rotos con jamón ibérico|12.00|
