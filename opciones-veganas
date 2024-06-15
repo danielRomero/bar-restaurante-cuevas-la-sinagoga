@@ -1,0 +1,18 @@
+---
+title: Opciones Veganas
+published: true
+tags:
+  - opciones-veganas
+---
+
+
+|Lasaña|
+|Pisto castellano con heura o tofu|
+|Espaguetis boloñesa|
+|Arroz meloso con setas y trigueros|
+|Croquetas|
+|Haburguesa (proteína de soja) con queso|
+
+
+
+{% include footer-menu.md %}
