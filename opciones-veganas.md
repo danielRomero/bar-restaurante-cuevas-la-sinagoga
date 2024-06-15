@@ -5,6 +5,8 @@ tags:
   - opciones-veganas
 ---
 
+# Opciones veganas
+
 |Alcachofa confitada|12.00|
 |Trigueros a la plancha|10.00|
 |Gazpacho o salmorejo|7.00|
