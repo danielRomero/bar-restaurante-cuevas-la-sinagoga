@@ -8,6 +8,7 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
+|Arroz caldoso con marisco|
 |Pisto castellano con huevo|
 |Sopa castellana|
 |Salmorejo|
@@ -17,8 +18,9 @@ tags:
 
 |Secreto ibérico|
 |Entrecot|
+|Carrillada en salsa|
 |Rabo de toro al vino tinto|
-|Bacalao con tomate|
+|Ventresca de atún a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
