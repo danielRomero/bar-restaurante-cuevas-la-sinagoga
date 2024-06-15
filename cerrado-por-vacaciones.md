@@ -9,6 +9,7 @@ redirect_from:
   - /segundos-platos
   - /vinos
   - /raciones-bocadillos
+  - /opciones-veganas
   - /
 ---
 
