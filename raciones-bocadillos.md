@@ -37,5 +37,6 @@ tags:
 
 |Hamburguesa con jamón ibérico, queso de rulo cabra, salsa barbacoa y patatas|12.00|
 |Hamburguesa con bacon, queso, salsa burguer y patatas|10.00|
+|Hamburguesa vegana (proteína de soja) con queso|10.00|
 
 {% include footer-menu.md %}
