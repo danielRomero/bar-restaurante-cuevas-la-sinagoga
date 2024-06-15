@@ -24,7 +24,7 @@ tags:
 |Hamburguesa vegana (proteína de soja) con queso|10.00|
 
 
-|Paletilla de lechal al horno|25.00|
+|Cordero asado al horno|27.00|
 
 <!-- |Paletilla de cordero de lechal asada|24.50| -->
  
