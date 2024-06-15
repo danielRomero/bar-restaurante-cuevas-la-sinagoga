@@ -11,7 +11,7 @@ tags:
 |Croquetas caseras de jamón y cocido|10.00|
 |Croquetas de rabo de toro|10.00|
 |Croquetas de queso roquefort|10.00|
-|Croquetas veganas (proteína de soja) |10.00|
+|Croquetas veganas (proteína de guisante) |10.00|
 |Calaramares a la romana|11.00|
 |Sepia a la plancha|14.00|
 |Chopitos|8.50|
