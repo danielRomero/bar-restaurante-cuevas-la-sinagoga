@@ -11,6 +11,7 @@ tags:
 |Croquetas caseras de jamón y cocido|10.00|
 |Croquetas de rabo de toro|10.00|
 |Croquetas de queso roquefort|10.00|
+|Croquetas veganas (proteína de soja) |10.00|
 |Calaramares a la romana|11.00|
 |Sepia a la plancha|14.00|
 |Chopitos|8.50|
@@ -37,6 +38,6 @@ tags:
 
 |Hamburguesa con jamón ibérico, queso de rulo cabra, salsa barbacoa y patatas|12.00|
 |Hamburguesa con bacon, queso, salsa burguer y patatas|10.00|
-|Hamburguesa vegana (proteína de soja) con queso|10.00|
+|Hamburguesa vegana (proteína de soja) con queso|12.00|
 
 {% include footer-menu.md %}
