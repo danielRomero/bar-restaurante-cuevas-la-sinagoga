@@ -12,7 +12,7 @@ tags:
 |Pisto castellano con huevo|
 |Sopa castellana|
 |Salmorejo o gazpacho|
-|Ensalada con aguacate y mango|
+|Ensalada con salmón ahumado, aguacate y mango|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
