@@ -13,7 +13,7 @@ tags:
 |Rabo de toro al vino tinto|14.00|
 |Chuletas de cordero|17.00|
 |Mollejas de cordero|19.00|
-|Secreto o presa de cerdo|11.00|
+|Secreto o presa de cerdo|12.50|
 |Confit de pato con salsa de naranja|14.00|
 |Huevos rotos con jamón ibérico|12.00|
 |Emperador a la plancha|10.00|
