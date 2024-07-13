@@ -31,8 +31,10 @@ tags:
 
 |Blancos|   |
 |---|---|
-|Blanco de Rueda jóven|9.00|
 |Martin Codax Albariño|16.00|
+|Blanco de Rueda jóven|9.00|
+|Goleta Azul Rueda semidulce|12.00|
+|Dulce María vino dulce|10.00|
 
 |Rosados|   |
 |---|---|
