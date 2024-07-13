@@ -21,6 +21,7 @@ tags:
 |Queso manchego|14.00|
 |Tosta de jamón ibérico y huevo frito|12.00|
 |Revuelto de morcilla con pasas y piñones|12.00|
+|Morteruelo|10.00|
 
 # Bocadillos
 
