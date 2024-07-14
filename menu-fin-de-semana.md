@@ -11,7 +11,8 @@ tags:
 |Pisto castellano con huevo|
 |Risoto de setas|
 |Salmorejo o gazpacho|
-|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
+<!-- |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos| -->
+|Ensalada con pollo, miel y mostaza|
 |Ensalada con gambas y salsa rosa|
 
 ------
@@ -20,7 +21,7 @@ tags:
 |Entrecot|
 |Secreto ibérico|
 |Rabo de toro al vino tinto|
-|Ventresca de atún a la plancha|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
