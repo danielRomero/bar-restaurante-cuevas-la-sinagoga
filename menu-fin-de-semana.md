@@ -11,9 +11,10 @@ tags:
 |Pisto castellano con huevo|
 |Risoto de setas|
 |Salmorejo o gazpacho|
-<!-- |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos| -->
 |Ensalada con pollo, miel y mostaza|
 |Ensalada con gambas y salsa rosa|
+
+<!-- |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos| -->
 
 ------
 
