@@ -8,8 +8,8 @@ tags:
 # Raciones
 
 |Patatas 3 salsas (brava, alioli y deluxe)|8.00|
-|Croquetas caseras de jamón|10.00|
-|Croquetas caseras de cocido|10.00|
+|Croquetas de jamón|10.00|
+|Croquetas de cocido|10.00|
 |Croquetas de rabo de toro|10.00|
 |Croquetas de queso roquefort|10.00|
 |Croquetas veganas (proteína de guisante) |10.00|
