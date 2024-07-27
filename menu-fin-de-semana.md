@@ -10,17 +10,18 @@ tags:
 
 |Pisto castellano con huevo|
 |Salmorejo o gazpacho|
-|Pimientos rellenos de merluza y gambas|
+|Risoto de setas|
 |Ensalada con salmón, mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Picaña a la plancha|
+|Carrillada en salsa|
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Salmón a la plancha|
-|Bonito con tomate|
+|Ventresca de atún a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
