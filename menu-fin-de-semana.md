@@ -11,7 +11,7 @@ tags:
 |Pisto castellano con huevo|
 |Salmorejo o gazpacho|
 |Risoto de setas|
-|Ensalada con salmón, mango y aguacate|
+|Pimientos rellenos de merluza y gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
