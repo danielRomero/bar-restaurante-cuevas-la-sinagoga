@@ -15,7 +15,7 @@ tags:
 |Croquetas veganas (proteína de guisante) |10.00|
 |Calaramares a la romana|11.00|
 |Sepia a la plancha|14.00|
-|Chopitos|8.50|
+|Chopitos|10.00|
 |Mollejas de cordero al ajillo|19.00|
 |Jamón ibérico|15.00|
 |Salchichón ibérico|8.00|
