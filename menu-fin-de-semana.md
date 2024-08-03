@@ -10,14 +10,13 @@ tags:
 
 |Pisto castellano con huevo|
 |Salmorejo o gazpacho|
-|Risoto de setas|
-|Pimientos rellenos de merluza y gambas|
+|Ensaladilla con gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Picaña a la plancha|
-|Carrillada en salsa|
+|Secreto ibérico|
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Ventresca de atún a la plancha|
