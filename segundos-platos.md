@@ -12,7 +12,7 @@ tags:
 |Cachopo de ternera|17.00|
 |Rabo de toro al vino tinto|14.00|
 |Chuletas de cordero|17.00|
-|Chuletón de ternera 1kg|32.00€|
+|Chuletón de ternera 1kg|32.00|
 |Mollejas de cordero|19.00|
 |Morteruelo|10.00|
 |Secreto o presa de cerdo|12.50|
