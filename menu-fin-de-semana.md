@@ -16,7 +16,7 @@ tags:
 ------
 
 |Picaña a la plancha|
-|Secreto ibérico|
+|Carrillada en salsa|
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Ventresca de atún a la plancha|
