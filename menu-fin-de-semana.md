@@ -10,16 +10,15 @@ tags:
 
 |Pisto castellano con huevo|
 |Salmorejo o gazpacho|
-|Ensaladilla con gambas|
+|Espaguetis con salsa de boletus|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
-|Picaña a la plancha|
-|Carrillada en salsa|
+|Cachopo|
 |Entrecot|
 |Rabo de toro al vino tinto|
-|Ventresca de atún a la plancha|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
