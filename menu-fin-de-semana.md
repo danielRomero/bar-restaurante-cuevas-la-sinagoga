@@ -9,13 +9,15 @@ tags:
 # Menú fin de semana y festivos - 26€
 
 |Salmorejo o gazpacho|
+|Pisto castellano con huevo|
 |Arroz caldoso con marisco y bogavante|
-|Ensalada con salmón, mango y aguacate|
+|Ensalada con gambas, salmón, mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Entrecot|
+|Carrillada|
 |Picaña a la plancha|
 |Rabo de toro al vino tinto|
 |Ventresca de atún|
