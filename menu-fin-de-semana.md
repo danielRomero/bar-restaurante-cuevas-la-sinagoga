@@ -10,15 +10,15 @@ tags:
 
 |Salmorejo o gazpacho|
 |Pisto castellano con huevo|
-|Arroz caldoso con marisco y bogavante|
+|Sopa castellana|
 |Ensalada con gambas, salmón, mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Entrecot|
-|Carrillada|
-|Picaña a la plancha|
+|Secreto ibérico|
+|Picaña de ternera a la plancha|
 |Rabo de toro al vino tinto|
 |Ventresca de atún|
 
