@@ -17,10 +17,10 @@ tags:
 ------
 
 |Entrecot|
-|Secreto ibérico|
-|Picaña de ternera a la plancha|
+|Carrilleras en salsa|
+|Picaña de ternera|
 |Rabo de toro al vino tinto|
-|Ventresca de atún|
+|Ventresca de atún a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
