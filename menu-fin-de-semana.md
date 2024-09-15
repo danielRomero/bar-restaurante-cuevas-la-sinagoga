@@ -16,7 +16,7 @@ tags:
 
 ------
 
-|Entrecot|
+|Cachopo|
 |Huevos rotos con virutas de jamón ibérico|
 |Secreto ibérico|
 |Rabo de toro al vino tinto|
