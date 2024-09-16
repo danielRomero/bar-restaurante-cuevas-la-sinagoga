@@ -1,6 +1,6 @@
 ---
 title: Cerrado por Vacaciones
-published: false
+published: true
 tags:
   - closed
 redirect_from:
@@ -13,9 +13,7 @@ redirect_from:
   - /
 ---
 
-# Cerrado por vacaciones. Volvemos el miércoles día 3 de enero.
-
-## Felices fiestas
+# Cerrado por vacaciones. Volvemos el miércoles día 9 de octubre.
 
 
 {% include footer-only-address.md %}
