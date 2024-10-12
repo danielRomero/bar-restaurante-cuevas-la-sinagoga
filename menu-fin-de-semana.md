@@ -16,7 +16,7 @@ tags:
 
 ------
 
-|Carrilleras al Pedro Ximenez|
+|Carrilleras|
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Bacalao al pilpil|
