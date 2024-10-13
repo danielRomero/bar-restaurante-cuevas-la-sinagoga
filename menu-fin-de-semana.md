@@ -19,7 +19,6 @@ tags:
 |Carrilleras|
 |Entrecot|
 |Rabo de toro al vino tinto|
-|Bacalao al pilpil|
 |Ventresca de atún a la plancha|
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
