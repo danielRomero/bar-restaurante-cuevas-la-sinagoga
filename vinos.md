@@ -12,7 +12,7 @@ tags:
 |---|---|
 |Estola reserva|8.00|
 |Finca la Estacada jóven|9.00|
-|Finca Río Negro jóven 992|15.00|
+|Finca Río Negro jóven 992|17.00|
 
 |Riojas|   |
 |---|---|
@@ -31,7 +31,7 @@ tags:
 
 |Blancos|   |
 |---|---|
-|Martin Codax Albariño|16.00|
+|Martin Codax Albariño|18.50|
 |Blanco de Rueda jóven|9.00|
 |Goleta Azul Rueda semidulce|12.00|
 |Dulce María vino dulce|10.00|
