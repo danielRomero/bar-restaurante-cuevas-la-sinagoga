@@ -20,6 +20,8 @@ tags:
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Ventresca de atún a la plancha|
+|Bacalao al pilpil|
+
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
 26€ - Vino, gaseosa, agua y postre incluidos
