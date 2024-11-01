@@ -12,7 +12,8 @@ tags:
 |Croquetas de cocido|10.00|
 |Croquetas de rabo de toro|10.00|
 |Croquetas de queso roquefort|10.00|
-|Croquetas veganas (proteína de guisante) |10.00|
+|Croquetas de secreto y miel|10.00|
+|Croquetas veganas (proteína de guisante) |13.00|
 |Calaramares a la romana|11.00|
 |Sepia a la plancha|14.00|
 |Chopitos|10.00|
