@@ -8,7 +8,7 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
-|Arroz caldoso con marisco|
+|Arroz caldoso con marisco y bogavante|
 |Sopa castellana|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
