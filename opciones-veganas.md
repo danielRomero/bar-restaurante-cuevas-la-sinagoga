@@ -15,8 +15,8 @@ tags:
 |Pisto castellano con heura o tofu|12.00|
 |Espaguetis boloñesa|9.00|
 |Arroz caldoso con setas y trigueros|12.00|
-|Croquetas (con proteína de guisante) |10.00|
-|Haburguesa (proteína de soja) con queso|12.00|
+|Croquetas (con proteína de guisante) |13.00|
+|Haburguesa (proteína de soja) con queso|14.00|
 
 
 {% include footer-menu.md %}
