@@ -11,8 +11,7 @@ tags:
 |Tintos de nuestra tierra|   |
 |---|---|
 |Estola reserva|8.00|
-|Finca la Estacada jóven|9.00|
-|Finca Río Negro jóven 992|17.00|
+|Finca Río Negro jóven 992|18.50|
 
 |Riojas|   |
 |---|---|
@@ -31,7 +30,7 @@ tags:
 
 |Blancos|   |
 |---|---|
-|Martin Codax Albariño|18.50|
+|Martin Codax Albariño|17,50|
 |Blanco de Rueda jóven|9.00|
 |Goleta Azul Rueda semidulce|12.00|
 |Dulce María vino dulce|10.00|
