@@ -12,7 +12,8 @@ tags:
 |Sopa castellana|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Ensalada con salmón, gambas, mango y aguacate|
+|Ensalada con gambas, mango y aguacate|
+|Espárragos trigueros|
 
 ------
 
