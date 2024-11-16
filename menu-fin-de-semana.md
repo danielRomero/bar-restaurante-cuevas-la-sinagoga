@@ -19,6 +19,7 @@ tags:
 
 |Entrecot|
 |Rabo de toro al vino tinto|
+|Picaña con setas|
 |Carrillada|
 |Salmón a la plancha|
 |Emperador|
