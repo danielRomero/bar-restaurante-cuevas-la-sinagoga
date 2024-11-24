@@ -8,7 +8,7 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
-|Fabada|
+|Berenjenas rellenas de carne|
 |Espárragos trigueros|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
