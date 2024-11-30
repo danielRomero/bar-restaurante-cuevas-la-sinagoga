@@ -15,6 +15,7 @@ tags:
 |Chuletón de ternera 1kg|32.00|
 |Mollejas de cordero|19.00|
 |Morteruelo|9.00|
+|Perdiz de campo escabechada|14.00|
 |Secreto o presa de cerdo|12.50|
 |Confit de pato con salsa de naranja|14.00|
 |Huevos rotos con jamón ibérico|12.00|
