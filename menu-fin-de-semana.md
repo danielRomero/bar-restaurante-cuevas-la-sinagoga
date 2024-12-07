@@ -11,7 +11,7 @@ tags:
 |Fabada|
 |Ensalada con salmón, mango y aguacate|
 |Sopa castellana|
-|Arroz caldoso con marisco|
+|Arroz caldoso con marisco y bogavante|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
