@@ -8,6 +8,7 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
+|Fabada|
 |Ensalada con salmón, mango y aguacate|
 |Sopa castellana|
 |Arroz caldoso con marisco|
