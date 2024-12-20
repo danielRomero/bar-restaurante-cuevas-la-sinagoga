@@ -5,6 +5,8 @@ tags:
   - opciones-veganas
 ---
 
+{% include closing-for-vacations-message.md %}
+
 # Opciones veganas
 
 |Alcachofa confitada|12.00|
