@@ -9,6 +9,8 @@ tags:
 
 ---
 
+{% include closing-for-vacations-message.md %}
+
 # Primeros platos
 
 |Alcachofa confitada con jamón|12.00|
