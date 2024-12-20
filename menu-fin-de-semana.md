@@ -5,6 +5,7 @@ tags:
   - menu-fin-de-semana
 ---
 
+{% include closing-for-vacations-message.md %}
 
 # Menú fin de semana y festivos - 26€
 
