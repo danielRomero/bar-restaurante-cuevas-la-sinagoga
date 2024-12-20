@@ -13,7 +13,12 @@ redirect_from:
   - /
 ---
 
-# Cerrado por vacaciones. Volvemos el miércoles día 9 de octubre.
+# Cerrado por vacaciones.
 
+Del lunes 23 al jueves 26.
+
+Volvemos el viernes 27 de diciembre.
+
+🎁 Felices Fiestas. 🎄
 
 {% include footer-only-address.md %}
