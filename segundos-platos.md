@@ -5,6 +5,8 @@ tags:
   - menu
 ---
 
+{% include closing-for-vacations-message.md %}
+
 # Segundos platos
 
 |Entrecot de ternera|20.00|
