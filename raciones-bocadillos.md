@@ -5,6 +5,8 @@ tags:
   - menu
 ---
 
+{% include closing-for-vacations-message.md %}
+
 # Raciones
 
 |Patatas 3 salsas (brava, alioli y deluxe)|8.00|
