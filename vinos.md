@@ -6,6 +6,8 @@ tags:
   - menu
 ---
 
+{% include closing-for-vacations-message.md %}
+
 # Vinos
 
 |Tintos de nuestra tierra|   |
