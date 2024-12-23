@@ -1,6 +1,6 @@
 ---
 title: Cerrado por Vacaciones
-published: false
+published: true
 tags:
   - closed
 redirect_from:
@@ -15,7 +15,7 @@ redirect_from:
 
 # Cerrado por vacaciones.
 
-Del lunes 23 al jueves 26.
+Del lunes 23 de diciembre al jueves 26.
 
 Volvemos el viernes 27 de diciembre.
 
