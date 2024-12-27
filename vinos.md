@@ -30,7 +30,7 @@ tags:
 |Mayor de Castilla|7.00|
 |Pruno Roble|16.50|
 |Cillar de Silos|18.00|
-|Matartomera club 2022|29.00|
+|Matarromera Club 2022|29.00|
 
 |Blancos|   |
 |---|---|
