@@ -9,9 +9,9 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
-|Sopa de marisco|
+|Fabada|
 |Sopa castellana|
-|Ensalada con salmón, mango y aguacate|
+|Cogollos con ventresca y anchoa|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
@@ -20,9 +20,9 @@ tags:
 
 |Entrecot|
 |Rabo de toro al vino tinto|
-|Picaña de ternera con salsa de queso|
-|Cachopo|
-|Emperador a la plancha|
+|Picaña de ternera con salsa de setas|
+|Costillas de cerdo ibérico al horno|
+|Sepia a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
