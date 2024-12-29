@@ -11,7 +11,7 @@ tags:
 
 |Fabada|
 |Sopa castellana|
-|Cogollos con ventresca y anchoa|
+|Cogollos con pimientos, atún y anchoa|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
@@ -22,7 +22,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Picaña de ternera con salsa de setas|
 |Costillas de cerdo ibérico al horno|
-|Sepia a la plancha|
+|Ventresca a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
