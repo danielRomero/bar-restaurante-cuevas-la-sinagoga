@@ -34,7 +34,7 @@ tags:
 |Chorizo ibérico|5.00|
 |Salchichón ibérico|5.00|
 |Chorizo frito|4.00|
-|Lomo a la plancha|6.00|
+|Lomo a la plancha|6.50|
 |Pepito de ternera|7.00|
 |Bacon|5.00|
 |Calamares a la romana|8.00|
