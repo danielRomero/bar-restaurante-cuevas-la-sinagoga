@@ -11,7 +11,7 @@ tags:
 
 |Fabada|
 |Sopa castellana|
-|Cogollos con pimientos, atún y anchoa|
+|Risoto de setas y boletus|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
@@ -20,9 +20,9 @@ tags:
 
 |Entrecot|
 |Rabo de toro al vino tinto|
-|Picaña de ternera con salsa de setas|
-|Secreto ibérico|
-|Ventresca a la plancha|
+|Abanico ibérico|
+|Cofillo al horno|
+|Bacalao al pilpil|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
