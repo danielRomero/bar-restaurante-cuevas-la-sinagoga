@@ -13,6 +13,7 @@ tags:
 |Sopa castellana|
 |Risoto de setas y boletus|
 |Pisto castellano con huevo|
+|Arroz caldoso con marisco y bogavante|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 
@@ -22,6 +23,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Abanico ibérico|
 |Codillo al horno|
+|Chuletas de cordero|
 |Bacalao al pilpil|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
