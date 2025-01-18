@@ -9,9 +9,9 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
-|Judías con almejas|
+|Fabada|
+|Callos|
 |Sopa castellana|
-|Ensalada de salmón, mango y aguacate|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
@@ -21,8 +21,8 @@ tags:
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Picaña a la plancha con salsa roquefort|
-|Salmón a la plancha|
-|Ventresca de atún|
+|Huevos rotos con gulas|
+|Bacalao con tomate|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
