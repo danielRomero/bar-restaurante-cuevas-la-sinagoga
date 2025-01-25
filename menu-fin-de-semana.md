@@ -9,6 +9,7 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
+|Patatas guisadas con costillas|
 |Pimientos rellenos de merluza y gambas|
 |Sopa castellana|
 |Pisto castellano con huevo|
