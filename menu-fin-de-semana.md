@@ -13,7 +13,7 @@ tags:
 |Trigueros a la plancha|
 |Sopa castellana|
 |Pisto castellano con huevo|
-|Ensalada con salmón, mango y aguacate|
+|Revuelto de setas, trigueros y gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 
