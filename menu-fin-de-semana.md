@@ -22,7 +22,7 @@ tags:
 |Entrecot|
 |Carrillera en salsa|
 |Rabo de toro al vino tinto|
-|Cordero al ajillo|
+|Caldereta de ordero|
 |Calamar a la plancha|
 |Ventresca de atún a la plancha|
 
