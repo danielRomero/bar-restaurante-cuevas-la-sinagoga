@@ -10,21 +10,19 @@ tags:
 # Menú fin de semana y festivos - 26€
 
 |Fabada|
-|Trigueros a la plancha|
 |Sopa castellana|
 |Pisto castellano con huevo|
-|Revuelto de setas, trigueros y gambas|
+|Pimientos rellenos de merluza y gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 
 ------
 
 |Entrecot|
-|Carrillera en salsa|
+|Picaña de ternera con salsa de setas y boletus|
 |Rabo de toro al vino tinto|
-|Caldereta de ordero|
-|Calamar a la plancha|
-|Ventresca de atún a la plancha|
+|Codillo al horno|
+|Bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
