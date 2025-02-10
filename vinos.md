@@ -31,6 +31,7 @@ tags:
 |Pruno Roble|16.50|
 |Cillar de Silos|18.00|
 |Matarromera Club 2022|29.00|
+|Carramimbre|16.00|
 
 |Blancos|   |
 |---|---|
