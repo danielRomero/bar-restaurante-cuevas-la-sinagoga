@@ -26,9 +26,9 @@ tags:
 |Ribera del Duero|   |
 |---|---|
 |Señorío de la Nava|14.00|
-|Protos|16.00|
+|Protos|17.00|
 |Mayor de Castilla|7.50|
-|Pruno Roble|16.50|
+|Pruno Roble|18.50|
 |Cillar de Silos|18.00|
 |Matarromera Club 2022|29.00|
 |Carramimbre|16.00|
