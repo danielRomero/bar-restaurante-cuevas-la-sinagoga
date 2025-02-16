@@ -12,7 +12,7 @@ tags:
 |Arroz caldoso con marisco y bogavante|
 |Fabada|
 |Sopa castellana|
-|Ensalada con burrata|
+|Ensalada de ahumados con salsa de mango|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 
