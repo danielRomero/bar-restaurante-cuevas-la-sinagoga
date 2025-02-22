@@ -21,7 +21,7 @@ tags:
 |Entrecot|
 |Carrillada en salsa|
 |Rabo de toro al vino tinto|
-|Atún a la plancha|
+|Ventresca de atún a la plancha|
 |Salmón a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
