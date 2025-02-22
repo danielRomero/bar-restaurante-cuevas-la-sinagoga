@@ -12,7 +12,7 @@ tags:
 |Revuelto de setas con gambas|
 |Fabada|
 |Sopa castellana|
-|Ensalada de ahumados con salsa de mango|
+|Ensalada con burrata|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 
