@@ -18,7 +18,7 @@ tags:
 
 ------
 
-|Entrecot|
+|Picaña de ternera|
 |Carrillada en salsa|
 |Rabo de toro al vino tinto|
 |Ventresca de atún a la plancha|
