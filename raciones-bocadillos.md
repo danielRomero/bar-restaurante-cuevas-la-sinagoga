@@ -26,6 +26,7 @@ tags:
 |Tosta de jamón ibérico y huevo frito|12.00|
 |Revuelto de morcilla con pasas y piñones|12.00|
 |Morteruelo|9.00|
+|Lomo de Orza laminado|10.00|
 
 # Bocadillos
 
