@@ -13,11 +13,13 @@ tags:
 |Sopa castellana|
 |Pisto castellano con huevo|
 |Pimientos rellenos de merluza y gambas|
+|Ensalada de ahumados, mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 
 ------
 
+|Picaña de ternera a la plancha|
 |Carrillada en salsa|
 |Rabo de toro al vino tinto|
 |Entrecot|
