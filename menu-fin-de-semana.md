@@ -12,7 +12,7 @@ tags:
 |Fabada|
 |Sopa castellana|
 |Pisto castellano con huevo|
-|Ensalada de ahumados, mango y aguacate|
+|Pimientos rellenos de merluza y gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 
@@ -21,7 +21,7 @@ tags:
 |Carrillada en salsa|
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Gallo|
+|Cachopo|
 |Ventresca de atún plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
