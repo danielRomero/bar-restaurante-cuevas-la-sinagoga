@@ -10,10 +10,10 @@ tags:
 # Menú fin de semana y festivos - 26€
 
 |Fabada|
+|Callos|
 |Sopa castellana|
 |Pisto castellano con huevo|
-|Pimientos rellenos de merluza y gambas|
-|Ensalada de ahumados, mango y aguacate|
+|Ensalada de ahumados con mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 
@@ -23,8 +23,8 @@ tags:
 |Carrillada en salsa|
 |Rabo de toro al vino tinto|
 |Entrecot|
-|Cachopo|
-|Ventresca de atún plancha|
+|Gallo rebozado|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
