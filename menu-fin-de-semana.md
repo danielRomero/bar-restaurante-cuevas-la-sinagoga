@@ -20,7 +20,6 @@ tags:
 ------
 
 |Picaña de ternera a la plancha|
-|Carrillada en salsa|
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Gallo rebozado|
