@@ -10,7 +10,7 @@ tags:
 # Menú fin de semana y festivos - 26€
 
 |Fabada|
-|Callos|
+|Risoto de setas|
 |Sopa castellana|
 |Pisto castellano con huevo|
 |Ensalada de ahumados con mango y aguacate|
@@ -19,7 +19,7 @@ tags:
 
 ------
 
-|Picaña de ternera a la plancha|
+|Chuletas de cordero|
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Gallo rebozado|
