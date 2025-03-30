@@ -10,7 +10,6 @@ tags:
 # Menú fin de semana y festivos - 26€
 
 |Fabada|
-|Verduras a la plancha|
 |Pimientos del piquillo rellenos de merluza y gambas|
 |Sopa castellana|
 |Ensalada con burrata y aceite trufado|
