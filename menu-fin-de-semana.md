@@ -13,7 +13,7 @@ tags:
 |Verduras a la plancha|
 |Pimientos del piquillo rellenos de merluza y gambas|
 |Sopa castellana|
-|Ensalada con burrata|
+|Ensalada con burrata y aceite trufado|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 
