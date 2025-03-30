@@ -13,7 +13,7 @@ tags:
 |Verduras a la plancha|
 |Pimientos del piquillo rellenos de merluza y gambas|
 |Sopa castellana|
-|Pisto castellano con huevo|
+|Ensalada con burrata|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 
@@ -21,9 +21,9 @@ tags:
 
 |Carrilleras en salsa|
 |Rabo de toro al vino tinto|
-|Entrecot|
+|Chuletas de cordero|
 |Cachopo|
-|Bacalao al horno|
+|Ventresca de atún a la plancha|
 |Sepia a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
