@@ -19,7 +19,7 @@ tags:
 
 ------
 
-|Carrilleras en salsa|
+|Cachopo|
 |Rabo de toro al vino tinto|
 |Entrecot|
 |Picaña de ternera|
