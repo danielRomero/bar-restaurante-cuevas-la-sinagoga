@@ -21,7 +21,7 @@ tags:
 
 |Cachopo|
 |Rabo de toro al vino tinto|
-|Entrecot|
+|Chuletas de cordero|
 |Picaña de ternera|
 |Salmón a la plancha|
 |Gallo rebozado|
