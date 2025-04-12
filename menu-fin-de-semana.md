@@ -10,7 +10,7 @@ tags:
 # Menú fin de semana y festivos - 26€
 
 |Fabada|
-|Revuelto de setas, trigueros y gambas|
+|Revuelto de setas y gambas|
 |Trigueros a la plancha|
 |Sopa castellana|
 |Pimientos rellenos de merluza y gambas|
