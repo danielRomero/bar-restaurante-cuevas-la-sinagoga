@@ -25,7 +25,6 @@ tags:
 |Entrecot|
 |Picaña de ternera|
 |Emperador a la plancha|
-|Bacalao al horno|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
