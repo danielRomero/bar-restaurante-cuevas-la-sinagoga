@@ -11,7 +11,7 @@ tags:
 
 |Fabada|
 |Salmorejo|
-|Revuelto de setas y gambas|
+|Revuelto de setas, jamón y gambas|
 |Trigueros a la plancha|
 |Sopa castellana|
 |Pimientos rellenos de merluza y gambas|
