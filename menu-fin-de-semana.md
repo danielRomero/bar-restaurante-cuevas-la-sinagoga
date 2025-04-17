@@ -11,7 +11,7 @@ tags:
 
 |Potaje|
 |Pimientos rellenos de merluza y gambas|
-|Revuelto de setas y trigueros, jamón y gambas|
+|Revuelto de setas, trigueros y gambas|
 |Sopa castellana|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
