@@ -10,6 +10,7 @@ tags:
 # Menú fin de semana y festivos - 26€
 
 |Potaje|
+|Pisto castellano con huevo|
 |Pimientos rellenos de merluza y gambas|
 |Revuelto de setas, trigueros y gambas|
 |Sopa castellana|
