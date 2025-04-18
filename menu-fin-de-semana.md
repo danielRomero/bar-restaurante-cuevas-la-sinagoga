@@ -23,6 +23,7 @@ tags:
 |Entrecot|
 |Picaña de ternera|
 |Bacalao rebozado|
+|Gallo|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
