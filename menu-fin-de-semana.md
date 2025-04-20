@@ -11,20 +11,19 @@ tags:
 
 |Fabada|
 |Ensalada con burrata y aceite trufado|
-|Trigueros a la plancha|
-|Pimientos rellenos de merluza y gambas|
 |Arroz caldoso con marisco y bogavante|
 |Sopa castellana|
+|Revuelto de setas y trigueros con gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
-|Rabo de toro al vino tinto|
 |Secreto ibérico|
 |Entrecot|
+|Chuletas de cordero|
 |Picaña de ternera|
 |Bacalao rebozado|
-|Gallo|
+|Ventresca de atún a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
