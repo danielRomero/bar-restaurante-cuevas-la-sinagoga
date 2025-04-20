@@ -11,7 +11,6 @@ tags:
 
 |Fabada|
 |Ensalada con burrata y aceite trufado|
-|Arroz caldoso con marisco y bogavante|
 |Sopa castellana|
 |Revuelto de setas y trigueros con gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
