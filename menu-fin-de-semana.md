@@ -13,6 +13,7 @@ tags:
 |Ensaladilla con gambas|
 |Ensalada de ahumados con mango y aguacate|
 |Sopa castellana|
+|Revuelto de trigueros|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
