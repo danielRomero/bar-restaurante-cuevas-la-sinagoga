@@ -18,7 +18,7 @@ tags:
 |Riojas|   |
 |---|---|
 |Cantos de Valpiedra crianza|14.00|
-|Ramón Bilbao crianza|14.00|
+|Ramón Bilbao crianza|15.00|
 |Cune crianza|16.00|
 |Marqués de Riscal reserva|23.00|
 |Rioja jóven|6.50|
@@ -27,7 +27,7 @@ tags:
 |---|---|
 |Señorío de la Nava|14.00|
 |Protos|17.00|
-|Mayor de Castilla|7.50|
+|Mayor de Castilla|8.50|
 |Pruno Roble|18.50|
 |Cillar de Silos|18.00|
 |Matarromera Club 2022|29.00|
@@ -42,7 +42,7 @@ tags:
 
 |Rosados|   |
 |---|---|
-|Rosado de Navarro|7.50|
-|Lambrusco espumoso|5.00|
+|Rosado de Navarro|8.50|
+|Lambrusco espumoso|7.00|
 
 {% include footer-menu.md %}
