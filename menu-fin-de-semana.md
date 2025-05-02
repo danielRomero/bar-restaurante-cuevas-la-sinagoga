@@ -21,7 +21,7 @@ Disculpen las molestias
 
 ------
 
-|Pierna de lechal al horno|
+|Entrecot|
 |Cachopo|
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
