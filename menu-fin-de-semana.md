@@ -29,4 +29,7 @@ tags:
 
 26€ - Vino, gaseosa, agua y postre incluidos
 
+Hoy, sábado 2 de mayo, no hay cobertura por lo que solo se aceptan pagos en efectivo.
+Disculpen las molestias
+
 {% include footer-menu.md %}
