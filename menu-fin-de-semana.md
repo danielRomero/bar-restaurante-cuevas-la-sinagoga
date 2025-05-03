@@ -9,24 +9,22 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
-Hoy, sábado 2 de mayo, no hay cobertura por lo que solo se aceptan pagos en efectivo.
-Disculpen las molestias
-
-|Judías con almejas|
+|Fabada|
 |Sopa castellana|
 |Revuelto de trigueros|
 |Pisto castellano con huevo|
+|Langostinos|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Ensalada con burrata y aceite trufado|
 
 ------
 
 |Entrecot|
-|Cachopo|
+|Carrillada en salsa|
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
-|Lubina a la plancha|
-|Gallo|
+|Codillo al horno|
+|Lubina o emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
