@@ -20,7 +20,7 @@ tags:
 |Perdiz de campo escabechada|14.00|
 |Secreto o presa de cerdo|12.50|
 |Confit de pato con salsa de naranja|14.00|
-|Huevos rotos con jamón ibérico|12.00|
+|Huevos rotos con jamón ibérico|14.00|
 |Emperador a la plancha|14.00|
 |Merluza a la romana|10.00|
 |Pulpo a la plancha|18.00|
