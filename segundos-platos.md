@@ -11,7 +11,7 @@ tags:
 
 |Entrecot de ternera|20.00|
 |Solomillo de ternera|22.00|
-|Cachopo de ternera|17.00|
+|Cachopo de ternera|18.00|
 |Rabo de toro al vino tinto|14.00|
 |Chuletas de cordero|19.00|
 |Chuletón de ternera 1kg|32.00|
@@ -21,7 +21,7 @@ tags:
 |Secreto o presa de cerdo|12.50|
 |Confit de pato con salsa de naranja|14.00|
 |Huevos rotos con jamón ibérico|12.00|
-|Emperador a la plancha|10.00|
+|Emperador a la plancha|14.00|
 |Merluza a la romana|10.00|
 |Pulpo a la plancha|18.00|
 |Hamburguesa con jamón ibérico, queso de rulo de cabra, salsa barbacoa y patatas|14.00|
