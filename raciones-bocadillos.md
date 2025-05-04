@@ -9,6 +9,7 @@ tags:
 
 # Raciones
 
+|Queso frito con 3 mermeladas|13.00|
 |Patatas 3 salsas (brava, alioli y deluxe)|8.00|
 |Croquetas de jamón|10.00|
 |Croquetas de cocido|10.00|
