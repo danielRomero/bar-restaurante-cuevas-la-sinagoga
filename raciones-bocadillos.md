@@ -31,14 +31,13 @@ tags:
 
 # Bocadillos
 
-|Jamón ibérico|9.00|
-|Queso manchego|7.00|
-|Chorizo ibérico|5.00|
-|Salchichón ibérico|5.00|
-|Chorizo frito|4.00|
+|Jamón ibérico|10.00|
+|Queso manchego|8.00|
+|Salchichón o chorizo ibérico|8.00|
+|Chorizo frito|6.00|
 |Lomo a la plancha|6.50|
 |Pepito de ternera|7.00|
-|Bacon|5.00|
+|Bacon|6.00|
 |Calamares a la romana|8.00|
 
 # Hamburguesas
