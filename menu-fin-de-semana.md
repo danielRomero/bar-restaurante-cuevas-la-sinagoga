@@ -23,7 +23,7 @@ tags:
 |Picaña de ternera|
 |Secreto ibérico|
 |Emperador a la plancha|
-|Ventresca de atún a la plancha|
+|Atún a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
 
