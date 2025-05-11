@@ -22,6 +22,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
 |Secreto ibérico|
+|Cachopo|
 |Emperador a la plancha|
 |Bonito a la plancha|
 
