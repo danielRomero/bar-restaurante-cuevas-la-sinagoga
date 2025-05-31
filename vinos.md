@@ -25,17 +25,17 @@ tags:
 
 |Ribera del Duero|   |
 |---|---|
-|Señorío de la Nava|14.00|
+|Señorío de la Nava|18.00|
 |Protos|17.00|
 |Mayor de Castilla|8.50|
 |Pruno Roble|18.50|
-|Cillar de Silos|18.00|
+|Cillar de Silos|22.00|
 |Matarromera Club 2022|29.00|
 |Carramimbre|16.00|
 
 |Blancos|   |
 |---|---|
-|Martin Codax Albariño|17,50|
+|Martin Codax Albariño|18,50|
 |Blanco de Rueda jóven|9.00|
 |Goleta Azul Rueda semidulce|12.00|
 |Dulce María vino dulce|10.00|
