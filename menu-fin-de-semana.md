@@ -13,6 +13,7 @@ tags:
 |Pisto castellano con huevo|
 |Pimientos rellenos de merluza y gambas|
 |Salmorejo|
+|Ensalada con burrata|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Ensaladilla con gambsa|
 
@@ -23,9 +24,10 @@ tags:
 |Picaña de ternera|
 |Carrillada en salsa|
 |Codillo al horno|
+|Pierna de cordero al horno|
 |Ventresca de atún a la plancha|
 
-<!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 34€| -->
+<!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
 26€ - Vino, gaseosa, agua y postre incluidos
 
