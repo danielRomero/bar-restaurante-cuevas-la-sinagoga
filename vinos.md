@@ -32,6 +32,7 @@ tags:
 |Cillar de Silos|22.00|
 |Matarromera Club 2022|29.00|
 |Carramimbre|16.00|
+|Aldor|12.00|
 
 |Blancos|   |
 |---|---|
