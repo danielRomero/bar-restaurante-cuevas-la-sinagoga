@@ -10,7 +10,7 @@ tags:
 # Segundos platos
 
 |Entrecot de ternera|20.00|
-|Solomillo de ternera|22.00|
+|Solomillo de ternera|24.00|
 |Cachopo de ternera|18.00|
 |Rabo de toro al vino tinto|14.00|
 |Chuletas de cordero|19.00|
