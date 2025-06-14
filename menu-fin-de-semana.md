@@ -22,6 +22,7 @@ tags:
 |Picaña de ternera|
 |Carrillada en salsa|
 |Ventresca de atún a la plancha|
+|Bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
