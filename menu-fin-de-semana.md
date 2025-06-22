@@ -21,7 +21,6 @@ tags:
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
-|Cachopo|
 |Pulpo a la plancha con puré de patata|
 |Bonito rebozado|
 
