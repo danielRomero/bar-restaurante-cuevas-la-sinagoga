@@ -11,18 +11,17 @@ tags:
 
 |Salmorejo|
 |Pisto castellano con huevo|
-|Ensaladilla con gambas|
+|Piminetos rellenos con merluza y gambas|
 |Ensalada con ahumados, mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Risoto de setas|
 
 ------
 
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
-|Pulpo a la plancha con puré de patata|
-|Bonito rebozado|
+|Solomillo de cerdo con salsa roquefort|
+|Bonito a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
