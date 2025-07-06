@@ -18,7 +18,7 @@ tags:
 ------
 
 |Entrecot|
-|Rabo de toro al vino tinto|
+|Chuletas de cordero|
 |Picaña de ternera|
 |Carrilleras|
 |Atún a la plancha|
