@@ -11,18 +11,17 @@ tags:
 
 |Salmorejo|
 |Pisto castellano con huevo|
-|Revuelto de teigueros, setas y gambas|
+|Pimientos rellenos de merluza y gambas|
 |Ensalada con salmón, mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Entrecot|
-|Chuletas de cordero|
-|Picaña de ternera|
-|Carrilleras|
-|Atún a la plancha|
-|Emperador|
+|Rabo de toro al vino tinto|
+|Abanico ibérico|
+|Caldereta de cordero|
+|Bonito a la plancha con ajo y perejil|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
