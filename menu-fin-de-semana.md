@@ -20,7 +20,7 @@ tags:
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Abanico ibérico|
-|Caldereta de cordero|
+|Picaña de ternera|
 |Bonito a la plancha con ajo y perejil|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
