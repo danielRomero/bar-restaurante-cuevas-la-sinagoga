@@ -21,7 +21,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Abanico ibérico|
 |Picaña de ternera|
-|Bonito a la plancha con ajo y perejil|
+|Bonito con tomate|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
