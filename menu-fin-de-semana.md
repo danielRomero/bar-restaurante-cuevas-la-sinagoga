@@ -11,7 +11,7 @@ tags:
 
 |Salmorejo|
 |Pisto castellano con huevo|
-|Pimientos rellenos de merluza y gambas|
+|Risoto de setas|
 |Ensalada con salmón, mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
@@ -19,9 +19,10 @@ tags:
 
 |Entrecot|
 |Rabo de toro al vino tinto|
-|Abanico ibérico|
-|Picaña de ternera|
-|Bonito con tomate|
+|Caldereta de cordero|
+|Costillas con salsa barbacoa|
+|Bonito a la plancha|
+|Sepia a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
