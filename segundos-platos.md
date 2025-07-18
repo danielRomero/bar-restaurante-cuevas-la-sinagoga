@@ -24,6 +24,7 @@ tags:
 |Emperador a la plancha|14.00|
 |Merluza a la romana|10.00|
 |Pulpo a la plancha|18.00|
+|Calamar de potera|12.00|
 |Hamburguesa con jamón ibérico, queso de rulo de cabra, salsa barbacoa y patatas|14.00|
 |Hamburguesa con bacon, queso, salsa burguer y patatas|12.00|
 |Hamburguesa vegana (proteína de soja) con queso|14.00|
