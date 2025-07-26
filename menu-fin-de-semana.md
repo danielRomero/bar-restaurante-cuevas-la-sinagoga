@@ -22,7 +22,7 @@ tags:
 
 |Entrecot|
 |Rabo de toro al vino tinto|
-|Bolillo al horno|
+|Codillo al horno|
 |Picaña de ternera|
 |Bonito con tomate|
 
