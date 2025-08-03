@@ -21,7 +21,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Carrillada en salsa|
 |Solomillo de cerdo con salsa roquefort|
-|Bonito a la plancha|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
