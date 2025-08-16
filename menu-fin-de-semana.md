@@ -21,7 +21,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
 |Carrillera en salsa|
-|Bonito a la plancha|
+|Ventresca de atún a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
