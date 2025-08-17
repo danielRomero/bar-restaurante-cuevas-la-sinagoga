@@ -9,7 +9,7 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
-|Ensalada con tomate de nuestra huerto con ventresca|
+|Ensalada con tomate de nuestro huerto con ventresca|
 |Salmorejo|
 |Pisto castellano con huevo|
 |Ensalada con ahumados, mango y aguacate|
