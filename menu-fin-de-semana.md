@@ -9,7 +9,7 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
-|Ensalada con tomate de nuestra huerto con mozzarela y jamón|
+|Ensalada con tomate de nuestra huerto con ventresca|
 |Salmorejo|
 |Pisto castellano con huevo|
 |Ensalada con ahumados, mango y aguacate|
@@ -20,7 +20,7 @@ tags:
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
-|Carrillera en salsa|
+|Cordero en caldereta|
 |Ventresca de atún a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
