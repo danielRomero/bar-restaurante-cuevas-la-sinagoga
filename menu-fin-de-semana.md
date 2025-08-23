@@ -9,6 +9,7 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
+|Pimientos rellenos de merluza y gambas|
 |Ensalada con tomate de nuestro huerto con ventresca|
 |Salmorejo|
 |Pisto castellano con huevo|
@@ -21,7 +22,8 @@ tags:
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
 |Cordero en caldereta|
-|Ventresca de atún a la plancha|
+|Solomillo de cerdo con salsa roquefort|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
