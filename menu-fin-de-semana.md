@@ -22,7 +22,7 @@ tags:
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
 |Cordero en caldereta|
-|Solomillo de cerdo con salsa roquefort|
+|Secreto de cerdo con salsa roquefort|
 |Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
