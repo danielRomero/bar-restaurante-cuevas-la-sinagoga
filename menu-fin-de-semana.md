@@ -21,7 +21,6 @@ tags:
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
-|Cordero en caldereta|
 |Codillo al horno|
 |Bonito a la plancha|
 
