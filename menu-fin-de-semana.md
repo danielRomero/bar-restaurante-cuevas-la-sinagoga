@@ -9,7 +9,6 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
-|Fabes con almejas|
 |Ensalada con tomate de nuestro huerto con ventresca|
 |Sopa castellana|
 |Pisto castellano con huevo|
