@@ -5,8 +5,6 @@ tags:
   - menu-fin-de-semana
 ---
 
-{% include closing-for-vacations-message.md %}
-
 # Menú fin de semana y festivos - 26€
 
 |Ensalada con tomate de nuestro huerto con ventresca|
@@ -26,5 +24,7 @@ tags:
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
 26€ - Vino, gaseosa, agua y postre incluidos
+
+{% include closing-for-vacations-message.md %}
 
 {% include footer-menu.md %}
