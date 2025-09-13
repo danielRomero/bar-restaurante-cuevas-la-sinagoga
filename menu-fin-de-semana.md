@@ -7,13 +7,12 @@ tags:
 
 # Menú fin de semana y festivos - 26€
 
-|Ensalada con tomate de nuestro huerto con ventresca|
-|Sopa castellana|
-|Revuelto de setas, trigueros y gambas|
-|Salmorejo|
-|Pisto castellano con huevo|
 |Ensalada con ahumados, mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
+|Ensalada con tomate de nuestro huerto con ventresca| 
+|Judías con almejas|
+|Sopa castellana|
+|Pisto castellano con huevo|
 
 ------
 
@@ -21,8 +20,8 @@ tags:
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
 |Carrillada en salsa|
-|Caldereta de cordero|
-|Bonito a la plancha|
+|Cachopo|
+|Emperador  a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
