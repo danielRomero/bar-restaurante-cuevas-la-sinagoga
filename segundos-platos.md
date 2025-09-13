@@ -17,8 +17,6 @@ tags:
 |Chuletón de ternera|32.00|
 |Mollejas de cordero|19.00|
 |Morteruelo|9.00|
-<!--|Perdiz de campo escabechada|14.00|-->
-<!--|Confit de pato con salsa de naranja|14.00|-->
 |Secreto o presa de cerdo|12.50|
 |Huevos rotos con jamón ibérico|14.00|
 |Emperador a la plancha|14.00|
@@ -28,6 +26,9 @@ tags:
 |Hamburguesa con bacon, queso, salsa burguer y patatas|12.00|
 |Hamburguesa vegana (proteína de soja) con queso|14.00|
 
+
+<!--|Perdiz de campo escabechada|14.00|-->
+<!--|Confit de pato con salsa de naranja|14.00|-->
 
 |Cordero asado al horno|27.00|
 
