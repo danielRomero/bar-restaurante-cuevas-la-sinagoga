@@ -18,6 +18,7 @@ tags:
 |Mollejas de cordero|19.00|
 |Morteruelo|9.00|
 |Secreto o presa de cerdo|12.50|
+|Confit de pato con salsa de naranja|14.00|
 |Huevos rotos con jamón ibérico|14.00|
 |Emperador a la plancha|14.00|
 |Merluza a la romana|10.00|
@@ -28,7 +29,7 @@ tags:
 
 
 <!--|Perdiz de campo escabechada|14.00|-->
-<!--|Confit de pato con salsa de naranja|14.00|-->
+
 
 |Cordero asado al horno|27.00|
 
