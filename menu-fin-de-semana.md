@@ -25,6 +25,6 @@ tags:
 
 26€ - Vino, gaseosa, agua y postre incluidos
 
-<!-- {% include closing-for-vacations-message.md %} -->
+{% include closing-for-vacations-message.md %}
 
 {% include footer-menu.md %}
