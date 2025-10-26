@@ -16,6 +16,7 @@ tags:
 |Croquetas caseras de rabo de toro|12.00|
 |Croquetas caseras de queso roquefort|12.00|
 |Croquetas caseras de secreto y miel|12.00|
+|Croquetas de jamón sin gluten|12.00|
 |Croquetas veganas (proteína de guisante) |13.00|
 |Calaramares a la romana|12.00|
 |Sepia a la plancha|14.00|
