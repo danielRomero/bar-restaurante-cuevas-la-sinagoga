@@ -17,7 +17,7 @@ tags:
 
 |Entrecot|
 |Rabo de toro al vino tinto|
-|Carrilleras en salsa|
+|Solomillo de cerdo con salsa roquefort|
 |Picaña de ternera|
 |Bonito a la plancha|
 |Gallo|
