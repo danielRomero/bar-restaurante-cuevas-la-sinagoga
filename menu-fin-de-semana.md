@@ -17,7 +17,7 @@ tags:
 ------
 
 |Entrecot|
-|Rabo de toro al vino tinto|
+|Cachopo|
 |Carrillada guisada|
 |Solomillo de cerdo con salsa roquefort|
 |Emperador a la plancha|
