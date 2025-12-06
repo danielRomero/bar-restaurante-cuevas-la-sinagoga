@@ -10,7 +10,7 @@ tags:
 |Revuelto de setas con jamón|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|arroz caldoso con marisco y bogavante|
+|Arroz caldoso con marisco y bogavante|
 |Sopa castellana|
 |Ensalada de ahumados con mango y aguacate|
 
