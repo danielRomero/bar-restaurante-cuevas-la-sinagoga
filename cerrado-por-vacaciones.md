@@ -15,9 +15,9 @@ redirect_from:
 
 # Cerrado por vacaciones.
 
-Del lunes 15 de septiembre al jueves 9 de octubre.
+Del martes 23 de septiembre al jueves 1 de enero.
 
-Volvemos el viernes 10 de octubre.
+Volvemos el viernes 2 de enero.
 
 
 {% include footer-only-address.md %}
