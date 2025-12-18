@@ -15,9 +15,11 @@ redirect_from:
 
 # Cerrado por vacaciones.
 
-Del martes 23 de septiembre al jueves 1 de enero.
+Del martes 23 de diciembre al jueves 1 de enero.
 
 Volvemos el viernes 2 de enero.
+
+🎄 Felices fiestas 🎄
 
 
 {% include footer-only-address.md %}
