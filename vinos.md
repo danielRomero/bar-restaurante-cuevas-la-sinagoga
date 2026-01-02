@@ -14,12 +14,14 @@ tags:
 |---|---|
 |Estola reserva|9.00|
 |Finca Río Negro jóven 992|18.50|
+|Convento Cogolludo|25.00|
 
 |Riojas|   |
 |---|---|
 |Cantos de Valpiedra crianza|14.00|
+|Hacienda López de Haro Reserva|18.50|
 |Ramón Bilbao crianza|15.00|
-|Cune crianza|16.00|
+|Cune crianza|18.00|
 |Marqués de Riscal reserva|23.00|
 |Rioja jóven|6.50|
 
@@ -33,11 +35,12 @@ tags:
 |Matarromera Club 2022|29.00|
 |Carramimbre|16.00|
 |Aldor|12.00|
+|Condominio|11|
 
 |Blancos|   |
 |---|---|
 |Martin Codax Albariño|18,50|
-|Blanco de Rueda jóven|9.00|
+|Blanco de Rueda jóven|12.00|
 |Goleta Azul Rueda semidulce|12.00|
 |Dulce María vino dulce|10.00|
 
