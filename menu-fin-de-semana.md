@@ -5,7 +5,7 @@ tags:
   - menu-fin-de-semana
 ---
 
-# Menú fin de semana y festivos - 26€
+# Menú fin de semana y festivos - 27€
 
 |Fabada|
 |Pisto castellano con huevo|
