@@ -1,3 +1,4 @@
+<!--
 ```ruby
 Cerramos por vacaciones
 
@@ -8,3 +9,4 @@ Volvemos el viernes 2 de enero.
 
 🎄 Felices fiestas 🎄
 ```
+-->
