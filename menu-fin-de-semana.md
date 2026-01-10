@@ -9,7 +9,7 @@ tags:
 
 |Sopa castellana|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Pimientos relleos de merluza y gambas|
+|Pimientos rellenos de merluza y gambas|
 |Judías con almejas|
 |Pisto castellano con huevo|
 
