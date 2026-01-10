@@ -1,6 +1,6 @@
 ---
 title: Menú fin de semana y festivos
-published: false
+published: true
 tags:
   - menu-fin-de-semana
 ---
