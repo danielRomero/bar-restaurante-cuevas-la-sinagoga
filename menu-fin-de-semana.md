@@ -9,17 +9,17 @@ tags:
 
 |Sopa castellana|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Revuelto de setas con jamón|
+|Pimientos relleos de merluza y gambas|
 |Judías con almejas|
 |Pisto castellano con huevo|
 
 ------
 
 |Entrecot|
-|Carrillada en salsa|
+|Solomillo de cerdo con salsa roquefort|
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
-|Bonito a la plancha|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
