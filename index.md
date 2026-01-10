@@ -2,5 +2,6 @@
 title: Restaurante Cuevas la Sinagoga
 published: true
 # redirect_to: /cerrado-por-vacaciones.html
-redirect_to: /primeros-platos
+redirect_to: /menu-fin-de-semana
 ---
+
