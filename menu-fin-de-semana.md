@@ -19,7 +19,7 @@ tags:
 |Entrecot|
 |Carrillada en salsa|
 |Rabo de toro al vino tinto|
-|Picaña de ternera a la plancha|
+|Huevos fritos con vieutas de jamón ibérico|
 |Codero en caldereta|
 |Bonito a la plancha|
 
