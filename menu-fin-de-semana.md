@@ -10,7 +10,7 @@ tags:
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Sopa castellana|
 |Fabada|
-|Cardo con salsa de almendras|
+|Ensaladilla con gambas|
 |Revuelto de setas con jamón y gambas|
 
 ------
@@ -18,8 +18,9 @@ tags:
 |Entrecot|
 |Carrillada en salsa|
 |Rabo de toro al vino tinto|
+|Codillo al horno|
 |Picaña de ternera|
-|Emperador o Gallo|
+|Salmón a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
