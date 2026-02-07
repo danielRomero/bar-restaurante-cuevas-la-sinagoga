@@ -11,7 +11,7 @@ tags:
 |Sopa castellana|
 |Fabada|
 |Ensaladilla con gambas|
-|Revuelto de setas con jamón y gambas|
+|Revuelto de setas con jamón|
 
 ------
 
