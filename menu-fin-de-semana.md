@@ -10,6 +10,7 @@ tags:
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Sopa castellana|
 |Fabada|
+|Pisto castellano con huevo|
 |Ensaladilla con gambas|
 |Revuelto de setas con jamón|
 
