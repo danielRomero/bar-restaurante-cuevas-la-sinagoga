@@ -12,11 +12,12 @@ tags:
 |Sopa castellana|
 |Cocido montañés|
 |Pisto castellano con huevo|
+|Revuelto de setas con jamón|
 
 ------
 
 |Entrecot|
-|Carrillada a la plancha|
+|Carrillada en salsa|
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
 |Emperador a la plancha|
