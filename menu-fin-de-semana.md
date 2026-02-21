@@ -7,20 +7,21 @@ tags:
 
 # Menú fin de semana y festivos - 27€
 
-|Arroz caldoso con marisco y bogavante|
-|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Sopa castellana|
+|Espinacas gratinadas con bechamel|
 |Cocido montañés|
+|Sopa castellana|
+|Pimientos rellenos de merluza y gambas|
+|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Pisto castellano con huevo|
-|Revuelto de setas con jamón|
 
 ------
 
-|Entrecot|
-|Carrillada en salsa|
-|Rabo de toro al vino tinto|
 |Picaña de ternera|
-|Emperador a la plancha|
+|Rabo de toro al vino tinto|
+|Cachopo|
+|Cordero en caldereta|
+|Sepia a la plancha|
+|Bonito a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
