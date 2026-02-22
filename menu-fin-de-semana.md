@@ -19,7 +19,7 @@ tags:
 |Picaña de ternera|
 |Rabo de toro al vino tinto|
 |Cachopo|
-|Cordero en caldereta|
+|carrillera en salsa|
 |Sepia a la plancha|
 |Bonito a la plancha|
 
