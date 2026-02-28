@@ -7,10 +7,10 @@ tags:
 
 # Menú fin de semana y festivos - 27€
 
-|Espinacas gratinadas con bechamel|
-|Cocido montañés|
+|Cardo con salsa de almendras|
+|Fabada|
 |Sopa castellana|
-|Pimientos rellenos de merluza y gambas|
+|Ensalada de ahumados|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Pisto castellano con huevo|
 
@@ -18,10 +18,9 @@ tags:
 
 |Picaña de ternera|
 |Rabo de toro al vino tinto|
-|Cachopo|
-|carrillera en salsa|
-|Sepia a la plancha|
-|Bonito a la plancha|
+|Entrecot|
+|Codillo al horno|
+|Bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
