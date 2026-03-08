@@ -7,7 +7,6 @@ tags:
 
 # Menú fin de semana y festivos - 27€
 
-|Callos|
 |Fabada|
 |Sopa castellana|
 |Pimientos rellenos de merluza y gambas|
