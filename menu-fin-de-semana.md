@@ -9,18 +9,19 @@ tags:
 
 |Fabada|
 |Sopa castellana|
-|Pimientos rellenos de merluza y gambas|
+|Risoto de setas|
+|Ensalada de ahumados, mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Pisto castellano con huevo|
 
 ------
 
-|Picaña de ternera|
+|Codillo al horno|
 |Rabo de toro al vino tinto|
 |Carrillada en salsa|
 |Entrecot|
-|Solomillo de cerdo con salsa roquefort|
-|Bonito a la plancha|
+|Gallo|
+|Bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
