@@ -16,7 +16,7 @@ tags:
 |Alcachofa confitada con jamón|12.00|
 |Berenjenas a la miel de la alcarria|12.00|
 |Sopa|9.00|
-|Fabada|10.00|
+|Fabada|12.00|
 |Revuelto de morcilla con piñones y pasas|12.00|
 |Ensalda con queso de rulo de cabra y frutos secos|12.00|
 |Ensalada con burrata|13.00|
