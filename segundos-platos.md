@@ -24,7 +24,7 @@ tags:
 |Pulpo a la plancha|19.00|
 |Hamburguesa con jamón ibérico, queso de rulo de cabra, salsa barbacoa y patatas|14.00|
 |Hamburguesa con bacon, queso, salsa burguer y patatas|12.00|
-|Hamburguesa vegana (proteína de soja) con queso|14.00|
+|Hamburguesa vegana con queso|14.00|
 |Perdiz de campo escabechada|14.00|
 
 <!--|Chuletón de ternera|34.00|-->
