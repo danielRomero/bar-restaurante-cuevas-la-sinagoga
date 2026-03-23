@@ -38,7 +38,7 @@ tags:
 |Pinna Fidelis Roble|18.00|
 |Cruz de Alba Roble|19.00|
 |Cillar de Silos|22.00|
-|Matarromera Club 2022|29.00|
+|Matarromera|24.00|
 |Carramimbre|16.00|
 |Aldor|12.00|
 |Condominio|11.00|
