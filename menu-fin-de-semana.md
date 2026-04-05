@@ -7,7 +7,7 @@ tags:
 
 # Menú fin de semana y festivos - 27€
 
-|Fabada|
+|Judías con almejas|
 |Sopa castellana|
 |Revuelto de setas con gambas|
 |Ensalada de ahumados con mango y aguacate|
