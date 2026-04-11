@@ -42,6 +42,7 @@ tags:
 |Carramimbre|16.00|
 |Aldor|12.00|
 |Condominio|11.00|
+|Dominio Lubiano|17.00|
 
 |Blancos|   |
 |---|---|
