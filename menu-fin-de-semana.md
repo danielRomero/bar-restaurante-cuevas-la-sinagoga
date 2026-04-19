@@ -8,7 +8,7 @@ tags:
 # Menú fin de semana y festivos - 27€
 
 |Salmorejo|
-|Pasta fresca con setas y boletus|
+|Espaguetis con setas y boletus|
 |Pimientos rellenos de merluza y gambas|
 |Trigueros a la plancha con salsa romesco|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
