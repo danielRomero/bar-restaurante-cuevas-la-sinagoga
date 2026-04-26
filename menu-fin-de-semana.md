@@ -17,7 +17,7 @@ tags:
 ------
 
 |Carrillada en salsa|
-|Cachopo|
+|Entrecot|
 |Solomillo de cerdo con salsa roquefort|
 |Rabo de toro al vino tinto|
 |Picaña de ternera|
