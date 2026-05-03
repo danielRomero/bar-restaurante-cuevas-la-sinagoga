@@ -18,10 +18,9 @@ tags:
 
 |Codillo al horno|
 |Picaña de ternera|
-|Cachopo|
+|Entrecot|
 |Rabo de toro al vino tinto|
 |Ventresca de atún a la plancha|
-|Cocochas de bacalao rebozadas|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
