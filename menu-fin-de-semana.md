@@ -7,20 +7,19 @@ tags:
 
 # Menú fin de semana y festivos - 27€
 
-|Judías con almejas|
-|Raviolis con setas|
-|Pisto castellano con huevo|
-|Trigueros a la plancha con salsa romesco|
+|Fabada|
+|Pimientos rellenos de merluza y gambas|
+|Revuelto de trigueros y setas con jamón|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Sopa castellana|
 
 ------
 
-|Codillo al horno|
+|Carrilleras|
 |Picaña de ternera|
 |Entrecot|
 |Rabo de toro al vino tinto|
-|Ventresca de atún a la plancha|
+|Emperador a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
