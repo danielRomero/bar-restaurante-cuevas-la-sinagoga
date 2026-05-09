@@ -17,6 +17,7 @@ tags:
 |Mollejas de cordero|21.00|
 |Morteruelo|9.00|
 |Secreto o presa de cerdo|12.50|
+|Perdiz de campo|14.00|
 |Confit de pato con salsa de naranja|16.00|
 |Huevos rotos con jamón ibérico|14.00|
 |Emperador a la plancha|14.00|
