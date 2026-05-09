@@ -48,8 +48,8 @@ tags:
 |---|---|
 |Martin Codax Albariño|18.50|
 |Blanco de Rueda jóven|12.00|
-|Goleta Azul Rueda semidulce|12.00|
-|Dulce María vino dulce|10.00|
+|Semidulce|12.00|
+|Vino dulce|12.00|
 
 |Rosados|   |
 |---|---|
