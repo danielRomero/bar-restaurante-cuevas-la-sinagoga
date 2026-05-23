@@ -9,8 +9,7 @@ tags:
 
 |Gazpacho o Salmorejo|
 |Judías con almejas|
-|Revuelto de trigueros y setas|
-|Setas con jamón|
+|Revuelto de trigueros y setas con jamón|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Sopa castellana|
 
