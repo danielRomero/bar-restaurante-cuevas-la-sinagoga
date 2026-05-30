@@ -7,16 +7,16 @@ tags:
 
 # Menú fin de semana y festivos - 27€
 
-|Gazpacho o Salmorejo|
-|Judías con almejas|
-|Revuelto de trigueros y setas con jamón|
+|Pasta fresca con queso y  sofrito de setas con mini-albóndigas|
+|Pisto castellano con huevo|
+|Ensalada de ahumados con mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Sopa castellana|
+|Sopa de marisco|
 
 ------
 
-|Carrillera en salsa|
-|Solomillo de cerdo con salsa roquefort|
+|Picaña de ternera|
+|Caldereta de cordero|
 |Entrecot|
 |Rabo de toro al vino tinto|
 |Bacalao rebozado|
