@@ -9,7 +9,6 @@ tags:
 
 |Pasta fresca con queso y  sofrito de setas con mini-albóndigas|
 |Pisto castellano con huevo|
-|Ensalada de ahumados con mango y aguacate|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 |Sopa de marisco|
 
