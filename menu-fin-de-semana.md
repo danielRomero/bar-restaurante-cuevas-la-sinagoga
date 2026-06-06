@@ -7,18 +7,19 @@ tags:
 
 # Menú fin de semana y festivos - 27€
 
-|Pasta fresca con queso y  sofrito de setas con mini-albóndigas|
+|Salmorejo o gazpacho|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Sopa de marisco|
+|Ensalada de ahumados con mango y aguacate|
+|Raviolis de carne con setas|
 
 ------
 
 |Picaña de ternera|
-|Caldereta de cordero|
+|Codillo al horno|
 |Entrecot|
 |Rabo de toro al vino tinto|
-|Bacalao rebozado|
+|Lubina al horno|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
