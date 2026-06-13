@@ -10,16 +10,17 @@ tags:
 |Salmorejo o gazpacho|
 |Pisto castellano con huevo|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Ensalada de ahumados con mango y aguacate|
-|Raviolis de carne con setas|
+|Ensalada césar|
+|Trigueros a la plancha con salsa romescu|
 
 ------
 
 |Picaña de ternera|
-|Codillo al horno|
-|Entrecot|
+|Solomillo de cerdo con salsa de setas|
+|Caldereta de cordero|
 |Rabo de toro al vino tinto|
-|Lubina al horno|
+|Emperador a la plancha|
+|Bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
