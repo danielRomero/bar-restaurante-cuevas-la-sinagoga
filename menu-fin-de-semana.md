@@ -7,6 +7,7 @@ tags:
 
 # Menú fin de semana y festivos - 27€
 
+|Pisto castellano con huevo|
 |Salmorejo o gazpacho|
 |Revuelto de setas con jamón|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
@@ -15,6 +16,7 @@ tags:
 
 ------
 
+|Entrecot|
 |Picaña de ternera|
 |Solomillo de cerdo con salsa de setas|
 |Carrillada en salsa|
