@@ -19,7 +19,7 @@ tags:
 
 |Entrecot|
 |Picaña de ternera|
-|Solomillo de cerdo con salsa de quedo|
+|Solomillo de cerdo con salsa de queso|
 |Carrillada en salsa|
 |Rabo de toro al vino tinto|
 |Bonito a la plancha|
