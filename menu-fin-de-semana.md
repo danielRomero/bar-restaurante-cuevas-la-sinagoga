@@ -8,11 +8,12 @@ tags:
 # Menú fin de semana y festivos - 27€
 
 |Pisto castellano con huevo|
+|Ensaladilla rusa con gambas|
 |Salmorejo o gazpacho|
 |Revuelto de setas con jamón|
-|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
-|Ensalada césar|
-|Pimientos rellenos de merluza y gambas|
+|Ensalada de burrata|
+
+<!--|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|-->
 
 ------
 
