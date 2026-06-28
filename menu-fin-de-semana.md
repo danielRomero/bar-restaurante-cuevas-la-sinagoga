@@ -12,8 +12,7 @@ tags:
 |Salmorejo o gazpacho|
 |Revuelto de setas con jamón|
 |Ensalada de burrata|
-
-<!--|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|-->
+|Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
