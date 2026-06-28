@@ -20,7 +20,6 @@ tags:
 |Riojas|   |
 |---|---|
 |Rioja jóven|6.50|
-|Cantos de Valpiedra crianza|14.00|
 |Ederra crianza|17.00|
 |Cune crianza|18.00|
 |Ramón Bilbao crianza|15.00|
@@ -31,16 +30,12 @@ tags:
 
 |Ribera del Duero|   |
 |---|---|
-|Señorío de la Nava|18.00|
 |Protos|17.00|
 |Mayor de Castilla|8.50|
-|Pruno Roble|18.50|
 |Pinna Fidelis Roble|18.00|
 |Cruz de Alba Roble|19.00|
 |Cillar de Silos|22.00|
-|Matarromera|24.00|
 |Carramimbre|16.00|
-|Aldor|12.00|
 |Condominio|11.00|
 |Dominio Lubiano|17.00|
 
