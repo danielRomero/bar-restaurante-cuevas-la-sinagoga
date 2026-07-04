@@ -7,21 +7,20 @@ tags:
 
 # Menú fin de semana y festivos - 27€
 
+|Judías con pota y almejas|
 |Pisto castellano con huevo|
-|Ensaladilla rusa con gambas|
 |Salmorejo o gazpacho|
 |Revuelto de setas con jamón|
-|Ensalada de burrata|
+|Ensalada césar|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Entrecot|
 |Picaña de ternera|
-|Solomillo de cerdo con salsa de queso|
 |Carrillada en salsa|
 |Rabo de toro al vino tinto|
-|Bonito a la plancha|
+|Gallo o bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
