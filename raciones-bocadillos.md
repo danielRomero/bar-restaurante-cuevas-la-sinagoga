@@ -21,14 +21,15 @@ tags:
 |Calaramares a la romana|12.00|
 |Sepia a la plancha|14.00|
 |Chopitos|12.00|
-|Mollejas de cordero al ajillo|21.00|
-|Jamón ibérico|18.00|
+|Mollejas de cordero al ajillo|22.00|
+|Jamón ibérico|20.00|
 |Salchichón ibérico o chorizo ibérico|11.00|
 |Queso manchego|14.00|
 |Tosta de jamón ibérico y huevo frito|12.00|
 |Revuelto de morcilla con pasas y piñones|12.00|
-|Morteruelo|9.00|
-|Lomo de Orza laminado|12.00|
+|Morteruelo|10  .00|
+
+<!--|Lomo de Orza laminado|12.00|-->
 
 # Bocadillos
 
