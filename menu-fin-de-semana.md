@@ -7,11 +7,11 @@ tags:
 
 # Menú fin de semana y festivos - 28,50€
 
-|Judías con pota y almejas|
 |Pisto castellano con huevo|
 |Salmorejo o gazpacho|
-|Revuelto de setas con jamón|
-|Ensalada césar|
+|Arroz caldoso con marisco Bogavante|
+|Revuelto de setas y trigueros con jamón|
+|Ensaladilla con gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
@@ -20,7 +20,7 @@ tags:
 |Picaña de ternera|
 |Carrillada en salsa|
 |Rabo de toro al vino tinto|
-|Gallo o bacalao rebozado|
+|Bonito a la plancha|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
