@@ -11,7 +11,7 @@ tags:
 |Sopa con fideos|
 |Salmorejo o gazpacho|
 |Raviolis de pasta fresca con setas y champiñones|
-|Ensaladilla con burrata|
+|Ensalada con burrata|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
