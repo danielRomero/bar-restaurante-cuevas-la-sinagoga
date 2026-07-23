@@ -16,7 +16,7 @@ tags:
 |Chuletas de cordero|19.00|
 |Mollejas de cordero|22.00|
 |Morteruelo|9.00|
-|Secreto o presa de cerdo|12.50|
+|Secreto o presa de cerdo|14.00|
 |Confit de pato con salsa de naranja|16.00|
 |Huevos rotos con jamón ibérico|14.00|
 |Emperador a la plancha|14.00|
