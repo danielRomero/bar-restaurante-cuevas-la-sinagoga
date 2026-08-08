@@ -11,6 +11,7 @@ tags:
 |Arroz caldoso con marisco y bogavante|
 |Gazpacho o Salmorejo|
 |Ensalada con burrata|
+|Revuelto de trigueros y setas con jamón|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
