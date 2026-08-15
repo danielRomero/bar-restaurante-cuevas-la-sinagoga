@@ -8,20 +8,18 @@ tags:
 # Menú fin de semana y festivos - 28,50€
 
 |Pisto castellano con huevo|
-|Arroz caldoso con marisco y bogavante|
 |Gazpacho o Salmorejo|
-|Ensalada con burrata|
-|Revuelto de trigueros y setas con jamón|
+|Cocktail de marisco|
+|Revuelto de setas con jamón|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Lagarto ibérico|
-|Entrecot|
-|Picaña de ternera|
-|Carrillada en salsa|
+|Solomillo de ternera|
+|Cordero en caldereta|
 |Rabo de toro al vino tinto|
-|Emperador a la plancha|
+|Bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
