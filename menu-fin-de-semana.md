@@ -5,7 +5,7 @@ tags:
   - menu-fin-de-semana
 ---
 
-# Menú fin de semana y festivos - 28,50€
+# Menú fin de semana y festivos - 29,50€
 
 |Pisto castellano con huevo|
 |Gazpacho o Salmorejo|
@@ -23,7 +23,7 @@ tags:
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
-28,50€ - Vino, gaseosa, agua y postre incluidos
+29,50€ - Vino, gaseosa, agua y postre incluidos
 
 {% include closing-for-vacations-message.md %}
 
