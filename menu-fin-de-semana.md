@@ -10,16 +10,18 @@ tags:
 |Pisto castellano con huevo|
 |Gazpacho o Salmorejo|
 |Cocktail de marisco|
+|Ensalada de ahumados|
 |Revuelto de setas con jamón|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Lagarto ibérico|
+|Entrecot|
 |Solomillo de ternera|
-|Cordero en caldereta|
 |Rabo de toro al vino tinto|
-|Bacalao rebozado|
+|Atún a la plancha|
+|Emperador|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
