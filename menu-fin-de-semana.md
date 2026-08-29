@@ -20,6 +20,7 @@ tags:
 
 |Caldereta de cordero|
 |Entrecot|
+|Lagarto ibérico|
 |Rabo de toro al vino tinto|
 |Bonito con tomate|
 |Bacalao rebozado|
