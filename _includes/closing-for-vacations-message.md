@@ -1,12 +1,8 @@
-<!--
 ```ruby
 Cerramos por vacaciones
 
-del martes 23 de diciembre
-al jueves 1 de enero.
+del lunes 14 de septiembre
+al martes 6 de octubre.
 
-Volvemos el viernes 2 de enero.
-
-🎄 Felices fiestas 🎄
+Volvemos el miércoles 7 de octubre.
 ```
--->
