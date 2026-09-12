@@ -8,17 +8,16 @@ tags:
 # Menú fin de semana y festivos - 29,50€
 
 |Pisto castellano con huevo|
-|Salmorejo|
-|Pimientos rellenos de merluza y gambas|
+|Gazpacho|
 |Sopa castellana|
-|Risotto de setas|
+|Revuelto de setas, trigueros y gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Solomillo de cerdo con salsa roquefort|
 |Entrecot|
-|Lagarto ibérico|
+|Picaña de ternera|
 |Rabo de toro al vino tinto|
 |Bacalao rebozado|
 
