@@ -10,16 +10,17 @@ tags:
 |Pisto castellano con huevo|
 |Gazpacho|
 |Sopa castellana|
-|Revuelto de setas, trigueros y gambas|
+|Trigueros envueltos en bacon|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
-|Solomillo de cerdo con salsa roquefort|
+|Lagarto ibérico|
 |Entrecot|
 |Picaña de ternera|
 |Rabo de toro al vino tinto|
 |Bacalao rebozado|
+|Gallo|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
