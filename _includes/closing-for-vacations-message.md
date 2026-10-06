@@ -1,3 +1,5 @@
+<!--
+
 ```ruby
 Cerramos por vacaciones
 
@@ -6,3 +8,4 @@ al martes 6 de octubre.
 
 Volvemos el miércoles 7 de octubre.
 ```
+-->
