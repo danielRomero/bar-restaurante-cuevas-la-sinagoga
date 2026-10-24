@@ -9,17 +9,17 @@ tags:
 
 |Pisto castellano con huevo|
 |Juías con almejas|
-|Sopa castellana|
-|Trigueros a la plancha envueltos con bacon|
+|Fabada|
+|Revuelto de setas con gambas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
-|Carrilleras|
-|Picaña de ternera|
+|Cachopo|
+|Entrecot|
 |Solomillo de cerdo con salsa de setas o roquefort|
 |Rabo de toro al vino tinto|
-|Salmón a la plancha|
+|Bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
