@@ -18,7 +18,7 @@ tags:
 |Sopa|9.00|
 |Fabada|12.00|
 |Revuelto de morcilla con piñones y pasas|12.00|
-|Ensalda con queso de rulo de cabra y frutos secos|12.00|
+|Ensalda con queso de rulo de cabra y frutos secos|14.00|
 |Ensalada con burrata|13.00|
 |Ensalada mixta|9.50|
 |Ensalada de pimimentos asados con ventresca|14.00|
