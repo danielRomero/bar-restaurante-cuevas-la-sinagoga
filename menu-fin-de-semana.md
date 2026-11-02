@@ -9,13 +9,13 @@ tags:
 
 |Pisto castellano con huevo|
 |Revuelto de setas con jamón|
-|Cocido montañés|
+|Espárragos trigueros envueltos en bacon|
 |Sopa de marisco|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
-|Cachopo|
+|Entrecot|
 |Picaña de ternera|
 |Caldereta de cordero|
 |Rabo de toro al vino tinto|
