@@ -17,7 +17,7 @@ tags:
 
 |Entrecot|
 |Picaña de ternera|
-|Caldereta de cordero|
+|Carrillada en salsa|
 |Rabo de toro al vino tinto|
 |Emperador a la plancha|
 
