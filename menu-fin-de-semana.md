@@ -9,7 +9,7 @@ tags:
 
 |Pisto castellano con huevo|
 |Revuelto de setas con jamón|
-|Espárragos trigueros envueltos en bacon|
+|Espárragos trigueros a la plancha envueltos en bacon|
 |Sopa de marisco|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
