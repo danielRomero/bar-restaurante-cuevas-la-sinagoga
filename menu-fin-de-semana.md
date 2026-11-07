@@ -8,7 +8,7 @@ tags:
 # Menú fin de semana y festivos - 29,50€
 
 |Pisto castellano con huevo|
-|Migas con huevo|
+|Migas|
 |Sopa castellana|
 |Judías con almejas|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
