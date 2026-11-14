@@ -10,16 +10,16 @@ tags:
 |Pisto castellano con huevo|
 |Migas|
 |Sopa castellana|
-|Judías con almejas|
+|Fabada|
 |Ensalada con rulo de cabra, frutos secos y balsámico de frutos rojos|
 
 ------
 
 |Entrecot|
 |Solomillo de cerdo con salsa roquefort|
-|Carrillada en salsa|
+|Cachopo|
 |Rabo de toro al vino tinto|
-|Gallo|
+|Bacalao rebozado|
 
 <!-- |Cordero asado|eligiendo este segundo plato se añade 10€ al menú, en total 36€| -->
 
